@@ -295,7 +295,7 @@ MD5sum: 9d8f0847a46d295424c286bce47c4646
 SHA1: 7307295b61760bf48bec1cf7b9101c094569688f
 SHA256: f4a46094cd813c4fd1d20fdfa7294db681e12a2379912917a262b14d251ce14e
 Section: Tweaks
-Description: Control your text or translate as you wish.
+Description: 控制您的文本或根据需要进行翻译。
 Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It

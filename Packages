@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.yan.fiona
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/Fiona_1.0.7_iphoneos-arm64.deb
+Size: 122272
+MD5sum: 0f71e9a33e4512a2423346effa58f971
+SHA1: ff2eb7c689ac7ecc41fc768d34a61dc819ba9574
+SHA256: 7a9a18c05868fc9a1ef3df211ca6904436e6fa69845c09317d3d2e6efca45b6d
+Section: Tweaks
+Description: iOS设备的浮动标签栏。
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/fiona/icon.png
+Name: Fiona
+
 Package: com.crazymind90.ukltuycb
 Version: 0.0.1-39+debug
 Architecture: iphoneos-arm64

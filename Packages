@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: milkyway4
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 3464
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./deb/MilkyWay4-ios16.deb
+Size: 1310372
+MD5sum: 1ac3660437f37b3f8d50ac3c5d152b57
+SHA1: 32dd6641542225d2e6a20d79a6e7d2196d7a1871
+SHA256: 86dbfaf26603aceb584dfc4cb6c118636bde6f2c4845db4614fd11ae4df38d80
+Section: Tweaks
+Description: 分屏插件，不支持半越狱
+Author: @akusio_RR
+Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
+Name: MilkyWay4-ios16
+
 Package: com.yan.fiona
 Version: 1.0.7
 Architecture: iphoneos-arm64

@@ -14,3 +14,19 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
+
+Package: com.dl.lyric-rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Mika
+Installed-Size: 844
+Depends: mobilesubstrate
+Filename: ./桌面歌词破解.deb
+Size: 116080
+MD5sum: abf69d9b9ed1a43228d5789722f7f07d
+SHA1: d4a9b7b1a72177ae33e330d5bbf5f12b81f5cc71
+SHA256: 5da4a2183e087b91a276f89a6775c552e5a15b4cfddf4abda3951f1f2025b106
+Section: Tweaks
+Description: 适配任何带锁屏歌词的应用！
+Author: Mika
+Name: 桌面歌词

@@ -15,6 +15,21 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.dao.hideserialnumber
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.hideserialnumber
+Filename: ./debs/隐藏序列号_0.0.4_iphoneos-arm64.deb
+Size: 81844
+MD5sum: aa25586ab10671142d1f5c72b2f6dde0
+SHA1: 2891dc32af96a697854c510703ec8256e3874310
+SHA256: 0089ecea46ad17714e53fc98bdff7df5c4cba3ff4339cbaabf6fba67cde82d76
+Description: 在“设置关于”页面中隐藏/伪装序列号等相关信息
+Author: ichitaso
+Name: 隐藏序列号(rootless)
+
 Package: byg.iosios.net.settingswidgets.rootless
 Version: 1.2.3
 Architecture: iphoneos-arm64

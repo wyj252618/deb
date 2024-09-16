@@ -12,6 +12,26 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.ethxnn88.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.ethxnn88.visibleisland_2.0_iphoneos-arm64.deb
+Size: 28536
+MD5sum: 7c2a36dd233186a5a6e3dd78c84ff987
+SHA1: ade33397dfe4b062e769c25b5227c7089e9ca119
+SHA256: 779bf083782562ab6ec8d3c276a2be067309a3fc35606203597dfb4467ed599c
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 在旧设备上启用、修复和自定义动态岛。
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Name: VisibleIsland
+Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+
 Package: com.dao.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64

@@ -23,7 +23,8 @@ MD5sum: 9e07411f39360da65f5df069397efaf1
 SHA1: 7b40d8df4fa922a17b21698a0c4ed666292935be
 SHA256: f08b23e2a686c92504d1ec57063233c544564b2b47607638ef17dff33b30770b
 Section: Addons
-Description: 直接劫持 dlpkg，所有经过 dpkg 的deb 都会被保存， 保存后的deb 存放在 war/mobile/Downloads/dpkg_triggered
+Description: 直接劫持 dpkg，所有经过 dpkg 的deb 都会被保存， 
+保存后的deb 存放在 war/mobile/Downloads/dpkg_triggered
 Author: zhaonan <invalidunit@icloud.com>
 Name: Give me deb
 

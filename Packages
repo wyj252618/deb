@@ -30,3 +30,36 @@ Section: Tweaks
 Description: 适配任何带锁屏歌词的应用！
 Author: Mika
 Name: 桌面歌词
+
+Package: com.0xkuj.filzadirprobe
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./Filzadirprobe_1.3.1_iphoneos-arm64.deb
+Size: 33000
+MD5sum: eb1796db074b9d9920dbe57c4f074dc9
+SHA1: 3c13a5ccb096dfa0edad656b13c1d8a1c7c36dfd
+SHA256: 3c80d7c96428b466861613f8d161699e7ea8fd5134995efc152de20f0cd38a3f
+Section: Tweaks
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Author: 0xkuj
+Name: FilzaDirProbe
+
+Package: com.xhg.dyhook
+Version: 8.8.9
+Architecture: iphoneos-arm64
+Maintainer: 人妖嘉嘉
+Installed-Size: 5280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./抖音大气层_2.0.3-6_iphoneos-arm64.deb
+Size: 1895628
+MD5sum: 99efe287157ef002a291972e43be0e85
+SHA1: b385f1ec8f510df305351aa6b810c136a18a3115
+SHA256: 3b6c3cb0308dffac5ef8426a4b1cc8f84385f138242ce8b783f93d245e88a7c6
+Section: Tweaks
+Description: 成功让人妖嘉嘉取消了入群费21.88元
+Author: 人妖嘉嘉
+Name: 抖音大气层-永久版
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/dyhook/js.json
+

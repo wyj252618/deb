@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.crazymind90.ukltuycb
+Version: 0.0.1-39+debug
+Architecture: iphoneos-arm64
+Maintainer: @CrazyMind90
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/应用锁带面容.deb
+Size: 18696
+MD5sum: 7c6ec43a2b5c53d7418b93f8e7777456
+SHA1: aee873962c77b162f1ac028617be509026c9ef7b
+SHA256: 6f5b192ed06ff46b4cf98d8267bf2a5c37ba8cdf17bcd3a066c1cbc07b0ecc9d
+Section: Tweaks
+Description: 三指双击触发菜单
+Author: @CrazyMind90
+Name: 应用锁带面容
+
 Package: com.ethxnn88.visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64

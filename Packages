@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.nan.givemedeb
+Version: 0.2.1
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: ./debs/插件备份.deb
+Size: 2416
+MD5sum: 9e07411f39360da65f5df069397efaf1
+SHA1: 7b40d8df4fa922a17b21698a0c4ed666292935be
+SHA256: f08b23e2a686c92504d1ec57063233c544564b2b47607638ef17dff33b30770b
+Section: Addons
+Description: 尝试保存 apt 缓存目录下所有 deb
+Author: zhaonan <invalidunit@icloud.com>
+Name: Give me deb
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64

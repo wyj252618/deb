@@ -18,7 +18,7 @@ Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
-Filename: ./BigShot长截图rootless.1.1.deb
+Filename: ./debs/BigShot长截图rootless.1.1.deb
 Size: 48320
 MD5sum: f54c8f8d20d3368d3a146b6db64a040d
 SHA1: 847764cc9b8d15542c7413d913a4cfcca589ad0a

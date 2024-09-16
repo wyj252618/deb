@@ -15,6 +15,22 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.nahtedetihw.n95
+Version: 4.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 15096
+Depends: mobilesubstrate
+Filename: ./deb/N95_4.4_iphoneos-arm64.deb
+Size: 35622636
+MD5sum: 6784e9de1f4c590245245681c8858684
+SHA1: 459e28129cb4be9b5c73cf1a3262b9208a4d7b84
+SHA256: 4dd74a9e18b9d63420dc61d7b4ab3bb4633806c9e28b104436c5a8d1300e56fc
+Section: Tweaks
+Description: Mask album artwork images in Apple Music!
+Author: Ethan Whited
+Name: N95
+
 Package: byg.iosios.net.settingswidgets.rootless
 Version: 1.2.3
 Architecture: iphoneos-arm64

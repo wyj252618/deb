@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: apt.cydiakk.settingsrevamp-rootless
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: ./debs/SettingsRevamp设置归类.2.1.1.deb
+Size: 118336
+MD5sum: 641c997c6622ee1ac2e47c3280865deb
+SHA1: 665c7ac0b1a25de12e6cc7680c6dd262af6f4be2
+SHA256: b38f9dd164563a2ded0be7e4d57091395fe9d59cbcf1c191d5f5c2987342916c
+Section: 插件列表
+Description: 设置自定义、归类插件
+Author: SOPPPra
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: SettingsRevamp设置归类
+
 Package: com.nan.givemedeb
 Version: 0.2.1
 Architecture: iphoneos-arm64

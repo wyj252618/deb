@@ -15,6 +15,72 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: byg.iosios.net.settingswidgets.rootless
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./SettingsWidgets汉化版_1.2.3_iphoneos-arm64.deb
+Size: 98384
+MD5sum: 57ac0a92a65b3507544c988c366cc718
+SHA1: c48b8257e50fac7ee111396a40710fefed5b927e
+SHA256: e0b71c2a4eb64bbb7bd091b055fbb321348229c6b2142baf64de9e7cdf8cab34
+Description: Bring good looking widgets to the front page of settings!将好看的小部件带到设置的首页！详情看截图介绍！
+Author: shepgoba
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: SettingsWidgets小组件-Rootless
+
+Package: com.dao.flexlist
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.flexlist, netskao.flexlist-rootless
+Filename: ./flexlist_1.4-2_iphoneos-arm64汉化.deb
+Size: 799124
+MD5sum: 05f7af4442ba3b598722ef8e66145d1a
+SHA1: c56a956fa75bd4d987c905ed2d63a90994229518
+SHA256: aba1e60264c8c01f77d2082a31f49ec99ab07662a95788530e9d6d097aa9dcb3
+Section: 嗨-工具
+Description: FLEX调试工具，Netskao新更的版本，上架备份。
+Author: Netskao
+Name: FLEXList(rootless)
+
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./snapper3_1.2.1_iphoneos-arm64.deb
+Size: 1023832
+MD5sum: 4a7cec3c111bdfc425b02d252065f173
+SHA1: e96e84728450eda9cd8d1ff21c5ff10a09c1fd23
+SHA256: 23255fa5373c347a6020c12b5c428774ac867ca375dc9e59dac21f83a1d9e5a2
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Name: Snapper 3
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./HammerIt.1.7.1.deb
+Size: 789172
+MD5sum: 9d8f0847a46d295424c286bce47c4646
+SHA1: 7307295b61760bf48bec1cf7b9101c094569688f
+SHA256: f4a46094cd813c4fd1d20fdfa7294db681e12a2379912917a262b14d251ce14e
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
 Package: com.dl.lyric-rootless
 Version: 3.0
 Architecture: iphoneos-arm64

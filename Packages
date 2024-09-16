@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: byg.iosios.net.recordpause
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/录像暂停.deb
+Size: 9948
+MD5sum: d2cf3c028f9071b794192d1ece3628ba
+SHA1: 47b80ad285019c27a06b09392e305ae498a48e6b
+SHA256: 412f203ee0824a2aa73bb5016fcafd09ad7e281653253ddaaa6e677c519dee7d
+Section: 系统增强
+Description: 在开启相机录视频的时候左下角增加一个暂停键
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 录像暂停-Rootless
+
 Package: com.hitori.misaki
 Version: 2.1.7
 Architecture: iphoneos-arm64

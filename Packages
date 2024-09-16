@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.dao.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: ./BigShot长截图rootless.1.1.deb
+Size: 48320
+MD5sum: f54c8f8d20d3368d3a146b6db64a040d
+SHA1: 847764cc9b8d15542c7413d913a4cfcca589ad0a
+SHA256: 25582e992b5d775f5d59cad728ac64c54cfd83fb3b2979b9b56f7cbf48d89e95
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
+Author: Jonathan Winger-lang
+Name: BigShot 长截图(rootless)
+
 Package: apt.cydiakk.settingsrevamp-rootless
 Version: 2.1.1
 Architecture: iphoneos-arm64

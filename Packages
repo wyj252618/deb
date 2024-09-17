@@ -385,16 +385,17 @@ Description: Filza扩展程序用于计算文件系统内的文件夹
 Author: 0xkuj
 Name: FilzaDirProbe
 
-Package: com.xhg.dyhook
-Version: 8.8.9
+Package: byg.iosios.net.dyhook
+Version: 2.0.5
 Architecture: iphoneos-arm64
-Installed-Size: 5280
+Installed-Size: 9076
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xhg.dyhook_8.8.9_iphoneos-arm64.deb
-Size: 1895584
-MD5sum: 9a9758849e65fab062c701f91f49335d
-SHA1: d66780c07a4e6ffc2258e067de0cfe955e64be35
-SHA256: 000d29bf03a33ad323e98ef05054261dedc7eef49ebf870e328781af74528725
-Section: Tweaks
-Name: 抖音大气层-永久版
+Filename: ./debs/抖音图层_2.0.5.deb
+Size: 3164064
+MD5sum: 3d97fb4b89f64c43a38949e0d72f3e6e
+SHA1: 07e23bc694057be7c741ca599b55c07869060d27
+SHA256: b3e9b2b714a47204068bf103fe745f368a0476915d190dbaf45c42c21a0e9175
+Description: 首页视频界面双指双击弹出设置UI，作者为人低调，这是他自用 (也是老弟自用，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！长按关闭输入：我想改标题，然后再长按关闭，完成修改！闪退就在sileo删除垃圾源，叫什么Axs来着，支持图层！
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 抖音图层-Rootless
 

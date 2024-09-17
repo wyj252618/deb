@@ -12,6 +12,28 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: ws.hbang.newterm3
+Version: 3.0~beta1
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 14899
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
+Size: 3836904
+MD5sum: fed66db963cb17131b239dc6deb7058c
+SHA1: 4c9327fb9cd3ccdade8247bab90bcf12338b6be2
+SHA256: cbd965fbdc25634e4e447ba4609598a67a0f354a63fce2dbf9e0dce99042b055
+Section: Terminal Support
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
 Package: milkyway4
 Version: 0.1.1
 Architecture: iphoneos-arm64

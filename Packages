@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.opa334.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 106172
+MD5sum: 30b3897a5c65509f9b6e095782f35cb7
+SHA1: 311575561188b1f33dc9a11c3ca4874e9f762e3c
+SHA256: a9b7de1cee8c32a6f542937674458f9216f5791385aca9949df459fed8134c4f
+Section: Tweaks
+Description: 屏蔽越狱检测，插件冲突排除工具
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+
 Package: com.edge.siri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64

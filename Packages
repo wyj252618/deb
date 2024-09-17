@@ -371,15 +371,15 @@ Author: Mika
 Name: 桌面歌词
 
 Package: com.0xkuj.filzadirprobe
-Version: 1.3.1
+Version: 1.4.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 240
-Filename: ./debs/Filzadirprobe_1.3.1_iphoneos-arm64.deb
-Size: 33000
-MD5sum: eb1796db074b9d9920dbe57c4f074dc9
-SHA1: 3c13a5ccb096dfa0edad656b13c1d8a1c7c36dfd
-SHA256: 3c80d7c96428b466861613f8d161699e7ea8fd5134995efc152de20f0cd38a3f
+Filename: ./debs/FilzaDirProbe_1.4.0_iphoneos-arm64.deb
+Size: 34644
+MD5sum: 55c81c63ef5cfb169edba217a032dde6
+SHA1: 76aeaf9cf58a6fd2edf10a432892f3d37785918b
+SHA256: 46e89ca69d8b451443fad3c66b31c098c1520ad20bcf0ae85ee3390921b522fe
 Section: Tweaks
 Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Author: 0xkuj

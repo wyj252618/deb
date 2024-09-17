@@ -58,7 +58,7 @@ MD5sum: fed66db963cb17131b239dc6deb7058c
 SHA1: 4c9327fb9cd3ccdade8247bab90bcf12338b6be2
 SHA256: cbd965fbdc25634e4e447ba4609598a67a0f354a63fce2dbf9e0dce99042b055
 Section: Terminal Support
-Description: Powerful terminal app for iOS
+Description: 强大的iOS终端应用程序
 Tag: compatible_min::ios14.0
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/newterm-beta
@@ -249,7 +249,7 @@ MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
 SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
 SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
 Section: Tweaks
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Description: 使用Misaki定制您的iOS 15和16体验。定制选项，让您的iPhone真正属于您。
 Tag: cydia::commercial, compatible_min::ios15.0
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
@@ -299,7 +299,7 @@ Size: 98384
 MD5sum: 57ac0a92a65b3507544c988c366cc718
 SHA1: c48b8257e50fac7ee111396a40710fefed5b927e
 SHA256: e0b71c2a4eb64bbb7bd091b055fbb321348229c6b2142baf64de9e7cdf8cab34
-Description: Bring good looking widgets to the front page of settings!将好看的小部件带到设置的首页！详情看截图介绍！
+Description:将好看的小部件带到设置的首页！
 Author: shepgoba
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SettingsWidgets小组件-Rootless
@@ -315,7 +315,6 @@ Size: 799124
 MD5sum: 05f7af4442ba3b598722ef8e66145d1a
 SHA1: c56a956fa75bd4d987c905ed2d63a90994229518
 SHA256: aba1e60264c8c01f77d2082a31f49ec99ab07662a95788530e9d6d097aa9dcb3
-Section: 嗨-工具
 Description: FLEX调试工具，Netskao新更的版本，上架备份。
 Author: Netskao
 Name: FLEXList(rootless)
@@ -333,7 +332,7 @@ MD5sum: 4a7cec3c111bdfc425b02d252065f173
 SHA1: e96e84728450eda9cd8d1ff21c5ff10a09c1fd23
 SHA256: 23255fa5373c347a6020c12b5c428774ac867ca375dc9e59dac21f83a1d9e5a2
 Section: Tweaks
-Description: Pin screenshots on the screen.
+Description: 将屏幕截图固定在屏幕上。
 Author: Jonathan Winger-lang
 Name: Snapper 3
 

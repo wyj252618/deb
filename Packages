@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.edge.siri
+Version: 3.1.1-9
+Architecture: iphoneos-arm64
+Maintainer: tangerine
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/EdgeSiri-3.1.9_iphoneos-arm64.deb
+Size: 15184
+MD5sum: a7e0365e5fbf980d4626d61696c93bfa
+SHA1: 5364da8896ebf7cac327216323773dc83b821799
+SHA256: c18659cdbd907ba0ad4ba2343f8f24712c39dde28dcf80aa40c84f8cab4a054b
+Section: Tweaks
+Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
+Author: tangerine
+Name: EdgeSiri
+
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64

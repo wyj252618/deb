@@ -381,7 +381,7 @@ MD5sum: 55c81c63ef5cfb169edba217a032dde6
 SHA1: 76aeaf9cf58a6fd2edf10a432892f3d37785918b
 SHA256: 46e89ca69d8b451443fad3c66b31c098c1520ad20bcf0ae85ee3390921b522fe
 Section: Tweaks
-Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Description: Filza扩展程序用于计算文件系统内的文件夹
 Author: 0xkuj
 Name: FilzaDirProbe
 

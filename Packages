@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.apper.SatellaJailed
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来源github大佬
+Installed-Size: 1488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/SatellaJailed内购破解.deb
+Size: 76684
+MD5sum: 8fe4b981a04b68e062f55eb46883ee7b
+SHA1: de11c91e5a12b3d23c867ef09da8094167a7eddd
+SHA256: 51e26728595838d36ad889c0621ee8e6cd74778e3c8ae510a97514917ee574f1
+Section: Tweaks
+Description: 又一款内购插件，一款支持iOS12-iOS16内购插件，本地内购插件，源码来源于github，使用方法：三指点击激活内购插件
+Author: 来源github大佬
+Name: SatellaJailed iOS12-16内购
+
 Package: com.opa334.choicy
 Version: 1.4.10-3
 Architecture: iphoneos-arm64

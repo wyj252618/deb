@@ -12,6 +12,19 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/DockX.deb
+Size: 420952
+MD5sum: f0e4b6d0fc9ba8e3147b9e4490c9aff5
+SHA1: 50f7d8148a08184226660ab6d72b4af99e5bcc0c
+SHA256: d09a9708a84cc1e50e2d95380c742262fb1021a25927708b472fabc138003b3d
+Description: 键盘坞上的粘贴板快捷键！
+Name: DockX
+
 Package: byg.iosios.net.events
 Version: 1.0
 Architecture: iphoneos-arm64

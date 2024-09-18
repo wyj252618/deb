@@ -12,6 +12,17 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: byg.iosios.net.events
+Version: 1.0
+Architecture: iphoneos-arm64
+Filename: ./debs/锁屏日历.deb
+Size: 1097716
+MD5sum: 3419c0cc9166d43c3fb6b33186cdf449
+SHA1: 7e7f1a8f12a68843d8fbfd04ec827434f8704d28
+SHA256: 8aa94a47aa1b8c51e2c798b12eec6beed3e2cd4d46a9f97e2acb5dcb2ea148c6
+Description: 在锁屏界面上，显示将来几天的节日，
+Name: Events锁屏日历
+
 Package: com.apper.SatellaJailed
 Version: 0.0.1
 Architecture: iphoneos-arm64

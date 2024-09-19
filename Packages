@@ -12,6 +12,17 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.nsproxy.NSProxy-iOS
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Filename: ./debs/ProxymanPro_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 39756
+MD5sum: 18db42c5ee9d9edb3683d31b15734ca9
+SHA1: 96759c09606851f1350dd2cb5e29caf38fcf16f9
+SHA256: f51b4af9bb31c2e6a96beeef00b97f3506327f20ba4055e9e3b354158a74a205
+Description: 只适配2.14.0版本，软件下载地址https://apps.apple.com/us/app/proxyman-network-debug-tool/id1551292695?l=zh-Hans-CN
+Name: Proxyman-Crack
+
 Package: com.udevs.dockx
 Version: 2.6.2
 Architecture: iphoneos-arm64

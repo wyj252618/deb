@@ -65,7 +65,7 @@ Name: DockX
 
 Package: byg.iosios.net.events
 Version: 1.0
-Maintainer:events
+Maintainer: events
 Architecture: iphoneos-arm64
 Filename: ./debs/锁屏日历.deb
 Size: 1097716

@@ -65,13 +65,13 @@ Name: DockX
 
 Package: byg.iosios.net.events
 Version: 1.0
-Maintainer: events
 Architecture: iphoneos-arm64
+Maintainer: events
 Filename: ./debs/锁屏日历.deb
-Size: 1097716
-MD5sum: 3419c0cc9166d43c3fb6b33186cdf449
-SHA1: 7e7f1a8f12a68843d8fbfd04ec827434f8704d28
-SHA256: 8aa94a47aa1b8c51e2c798b12eec6beed3e2cd4d46a9f97e2acb5dcb2ea148c6
+Size: 1097796
+MD5sum: 1ce955ea3c917eb45a3ca89c33029857
+SHA1: 1f07455134298838c545593cb5ab696ff7c5b792
+SHA256: 408f42eebb39bf4fbaed4454df76f8e68ace2867bf9b07552d82971b4299d8f2
 Description: 在锁屏界面上，显示将来几天的节日，
 Name: Events锁屏日历
 

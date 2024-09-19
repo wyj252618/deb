@@ -12,6 +12,20 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: net.alpine
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/Alpine精美TVOS弹窗_1.4_iphoneos-arm64.deb
+Size: 615080
+MD5sum: b00714b21e244d33b1c79178ca346b73
+SHA1: 7281b0c33c2fd8c31cb92167a2049580d8cb6663
+SHA256: b6c78c5710a4a196cfbf7eb483c3347c2c4e5f0f278a93749b654ed016a6f009
+Description: 替换所有弹窗为精美的TVOS风格，已汉化！
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Alpine TVOS弹窗
+
 Package: com.stepup
 Version: 1.2
 Architecture: iphoneos-arm64

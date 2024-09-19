@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: net.ajbbo.inapp
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/内购插件_1.1_iphoneos-arm64.deb
+Size: 2976
+MD5sum: c55480b931a7592f614a8442099ec62e
+SHA1: 52ba18a5ab2b0ff75ae3a342837a662e2e1f25f8
+SHA256: 3c5e0b70f6f8a9796ae86fc1eaa0d459f3e5fd89989701dbc84b2599f1450aea
+Section: Tweaks
+Description: 启用应用内购买
+Author: aJBboCydia
+Name: In-App 内购插件
+
 Package: com.nsproxy.NSProxy-iOS
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64

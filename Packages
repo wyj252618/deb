@@ -12,6 +12,17 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.brkchen.ChMirror
+Version: 0.4-1
+Architecture: iphoneos-arm64
+Filename: ./debs/ChMirror_0.4-1_iphoneos-arm64.deb
+Size: 41812
+MD5sum: 5bdd592a91e510a7da6f7903c0923124
+SHA1: 488359401df3235906fdf934b41d61af068576e0
+SHA256: 8f8f67f98f676901a24cb5dce199507a7d07114090793be8bd78bd31929f6e40
+Description: 解锁ChMirror会员
+Name: ChMirror
+
 Package: net.ajbbo.inapp
 Version: 1.1
 Architecture: iphoneos-arm64

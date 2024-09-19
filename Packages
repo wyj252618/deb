@@ -12,6 +12,19 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.stepup
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ETHN
+Filename: ./debs/com.stepup_1.2_iphoneos-arm64.deb
+Size: 70608
+MD5sum: 82ed8700223ef39593857bae2be7ca3d
+SHA1: 7d3c0eb1a25255e690b71ac1ecc5e5afedcd550b
+SHA256: 9925ebf3294d98b34e675fbe3f7258e0e33a8cc7e450d07971d551fdcd627456
+Section: Tweaks
+Description: 更改音量的步数！
+Name: 音量调整
+
 Package: com.Virtual.Toolbox
 Version: 1.0
 Architecture: iphoneos-arm64

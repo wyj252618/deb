@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.dao.ccborder
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: ./debs/CCBorder16.deb
+Size: 66924
+MD5sum: 6a2a65997f02922220a23fcf981a05ec
+SHA1: 6e3adfa144fcbba9d3b78244428dd7112b9f8bb1
+SHA256: ab54058f2b3d8bd79c44cdac76dd09ed3463a8e51345026d12337ffd6e786045
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
+Name: CCBorder16
+
 Package: com.AirPods
 Version: 1.4
 Architecture: iphoneos-arm64

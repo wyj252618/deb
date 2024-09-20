@@ -12,6 +12,19 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.AirPods
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: ETHN
+Depends: preferenceloader
+Filename: ./debs/AirPods耳机伴侣.deb
+Size: 10291016
+MD5sum: b6685739bb5a371ca736317db2583a45
+SHA1: 0a8c7a2ec59dcbd4bf20896e4f47f96de94091c3
+SHA256: 07c62cc4c3662796cf6b4d38c4997237ba98da17bb264cccaa7be82a7dac24cb
+Description: 音量滑块旁边的AirPods时尚控件。
+Name: AirPods耳机伴侣
+
 Package: net.alpine
 Version: 1.4
 Architecture: iphoneos-arm64

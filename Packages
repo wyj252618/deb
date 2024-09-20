@@ -12,6 +12,19 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: net.camera
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: To
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/全屏相机.deb
+Size: 3104
+MD5sum: d0dfc486917dde30f5545a27782c12e4
+SHA1: a27c919b0c20531d37cc13646c7d885dc79c6259
+SHA256: 53b0a8ec783a9759b968ef979f7f48ad7d8a3e1d51d0836bf6ea119f8c82d048
+Description: 系统相机开启全屏拍照，禁用拍照提示音
+Name: 全屏相机
+
 Package: net.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64

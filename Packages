@@ -125,18 +125,6 @@ Section: Tweaks
 Description: 更改音量的步数！
 Name: 音量调整
 
-Package: com.Virtual.Toolbox
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 123
-Filename: ./debs/虚拟工具箱_iphoneos-arm64.deb
-Size: 136960
-MD5sum: b6b2eef10d24d53379f75f64a49021fc
-SHA1: a155a1c5d93af090ada508adb39924ae620f51ed
-SHA256: f46606b19685d89cdde5e3df14ce06f1a4e836d72d2f6722eb94528e9f00c794
-Description: 三指双击或双击导航栏（基本就是app顶部位置）调出悬浮标或菜单
-Name: 虚拟工具箱
-
 Package: com.brkchen.ChMirror
 Version: 0.4-1
 Architecture: iphoneos-arm64

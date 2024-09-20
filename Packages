@@ -12,6 +12,18 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.Virtual.Toolbox
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 123
+Filename: ./debs/虚拟工具箱_iphoneos-arm64.deb
+Size: 146264
+MD5sum: c72460fbe211706f23558e56eb51cffc
+SHA1: 628343e25574f8665f7a70654aa2993987879074
+SHA256: d85c9acd1a43357beef906930e11077eb8491f863f829a9c4bb2324b6cdedd45
+Description: 三指双击或双击导航栏（基本就是app顶部位置）调出悬浮标或菜单
+Name: 虚拟工具箱
+
 Package: xyz.cypwn.teleports
 Version: 1.1
 Architecture: iphoneos-arm64

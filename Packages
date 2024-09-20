@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.initnil.wcenableshow
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/微信加好友日期.deb
+Size: 3940
+MD5sum: 78458fd3824726562c3e47dd42422bd0
+SHA1: 5c8786cfeca2deeb6f3218560a21e69a2c54852e
+SHA256: 09ec13b128fe1af80dd323a4dad9c177831890a66565a1618f9a6695b242434b
+Section: Tweaks
+Description: 微信启用测试显示联系人添日期，联系人更多的资料查看v8.0.51+
+Author: INITNIL
+Name: 微信加好友日期
+
 Package: net.camera
 Version: 0.1-2
 Architecture: iphoneos-arm64

@@ -30,11 +30,11 @@ Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/Alpine精美TVOS弹窗_1.4_iphoneos-arm64.deb
-Size: 615080
-MD5sum: b00714b21e244d33b1c79178ca346b73
-SHA1: 7281b0c33c2fd8c31cb92167a2049580d8cb6663
-SHA256: b6c78c5710a4a196cfbf7eb483c3347c2c4e5f0f278a93749b654ed016a6f009
+Filename: ./debs/Alpine精美TVOS弹窗.deb
+Size: 615064
+MD5sum: 6a3f4546796606b6e8eb825a89577022
+SHA1: ba342ac753458bd8cd1e3135a166f5e84c7dbb86
+SHA256: c2692118140ae43540905369328944a2a52c0e617e4bd7174c4bab47925cf84c
 Description: 替换所有弹窗为精美的TVOS风格，已汉化！
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Alpine TVOS弹窗

@@ -12,6 +12,20 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: net.recordpause
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: To
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/RecordPause录像暂停.deb
+Size: 10128
+MD5sum: 1fbacc3483cfd9a1d1cb34a242130848
+SHA1: f3a85c8104e6fdc8caddd9d16e8ca110dc05c867
+SHA256: 9e529c0cd64e317b25714256c46d2bfc6690948b2838d375b0cd00625794e1ff
+Description: 模仿iOS18功能，在开启相机录视频的时候左下角增加一个暂停键，非常的好用，从此以后录视频也可以暂停啦
+Name: RecordPause录像暂停
+
 Package: com.Virtual.Toolbox
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -441,22 +455,6 @@ Description: 一款支持批量替换文本的悬浮窗工具***，使用说明�
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
 Name: FT悬浮文本增强替换翻译汉化
-
-Package: byg.iosios.net.recordpause
-Version: 2.0.2
-Architecture: iphoneos-arm64
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/录像暂停.deb
-Size: 9948
-MD5sum: d2cf3c028f9071b794192d1ece3628ba
-SHA1: 47b80ad285019c27a06b09392e305ae498a48e6b
-SHA256: 412f203ee0824a2aa73bb5016fcafd09ad7e281653253ddaaa6e677c519dee7d
-Section: 系统增强
-Description: 在开启相机录视频的时候左下角增加一个暂停键
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 录像暂停-Rootless
 
 Package: com.hitori.misaki
 Version: 2.1.7

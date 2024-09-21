@@ -12,6 +12,26 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: ThemePro
+Version: 3.1.0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/ThemePro.deb
+Size: 6266224
+MD5sum: f32e94021006d7f0accba5f5624e95d9
+SHA1: 1eb26b117662c0297984b4e912c8caffffc41e2b
+SHA256: 1dd51a1910fa289842311e8c2864c0db98e5a40647633cb0d9f5bd5363a95d54
+Section: custom
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Name: ThemePro-3.1.0
+
 Package: net.recordpause
 Version: 2.0.3
 Architecture: iphoneos-arm64

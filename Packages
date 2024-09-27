@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.tools4cydiax
+Version: 2.1.1+rootful
+Architecture: iphoneos-arm64
+Maintainer: @Tools4cydia
+Installed-Size: 1460
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/Tools4cydiax_2.1.1.deb
+Size: 1020956
+MD5sum: 90d90af4f30f8424e1df47d5bd1293a2
+SHA1: d2e3b23a00cfce19267f22ba99254624589972c6
+SHA256: b0d95f2caafedacbdd59a9bf5865e22c0d351048640161a376358089b81ab917
+Section: Hack
+Description: أداة حاليا تحت التطوير ما يفتح كل ميزات داخل تطبيقات كل اصدار اضيف فيه اكواد اكثر حتى يكتمل على اغلب تطبيقات والعاب !
+Author: @Tools4cydia
+Name: Tools4cydia (rootless)
+
 Package: ThemePro
 Version: 3.1.0
 Architecture: iphoneos-arm64

@@ -12,6 +12,18 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.Virtual.Toolbox
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 123
+Filename: ./debs/虚拟工具箱_iphoneos-arm64.deb
+Size: 194676
+MD5sum: d4b2cca1e7b5d193ff4a5ae66cbae64b
+SHA1: a3f32895f59c1b528f73bb1129f27f91aab17bf2
+SHA256: 45ff2683c6eed6bd8d524a156fd59ca1c160edf121c20d6332757848f73623b0
+Description: 三指双击或双击导航栏（基本就是app顶部位置）调出悬浮标或菜单
+Name: 虚拟工具箱
+
 Package: com.tools4cydiax
 Version: 2.2.2+rootful
 Architecture: iphoneos-arm64
@@ -61,18 +73,6 @@ SHA1: f3a85c8104e6fdc8caddd9d16e8ca110dc05c867
 SHA256: 9e529c0cd64e317b25714256c46d2bfc6690948b2838d375b0cd00625794e1ff
 Description: 模仿iOS18功能，在开启相机录视频的时候左下角增加一个暂停键，非常的好用，从此以后录视频也可以暂停啦
 Name: RecordPause录像暂停
-
-Package: com.Virtual.Toolbox
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 123
-Filename: ./debs/虚拟工具箱_iphoneos-arm64.deb
-Size: 146264
-MD5sum: c72460fbe211706f23558e56eb51cffc
-SHA1: 628343e25574f8665f7a70654aa2993987879074
-SHA256: d85c9acd1a43357beef906930e11077eb8491f863f829a9c4bb2324b6cdedd45
-Description: 三指双击或双击导航栏（基本就是app顶部位置）调出悬浮标或菜单
-Name: 虚拟工具箱
 
 Package: xyz.cypwn.teleports
 Version: 1.2

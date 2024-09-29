@@ -75,15 +75,15 @@ Description: 三指双击或双击导航栏（基本就是app顶部位置）调�
 Name: 虚拟工具箱
 
 Package: xyz.cypwn.teleports
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
 Filename: ./debs/Teleport虚拟定位.deb
-Size: 7387416
-MD5sum: 351566000dff714ec104964a1f191ddc
-SHA1: b67176fa4bc1f46458fb2422c261a874672618d8
-SHA256: f0cdd7b688a0a3c75a973cc7883dfcdab4d150a366f62305349ff518295ef6f9
+Size: 7387024
+MD5sum: 75f7f6a35f5d3d8cd6609fa326428011
+SHA1: c5d00da3cc426fe23618dc040edf59c3b962fd96
+SHA256: 426c4f65bbd5c47fa40b5ffe2161c815aa99163d2f547ec20d9b6fbf49f14799
 Section: Tweaks
 Description: 免费虚拟定位，已汉化
 Author: SGWC

@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.hitori.misaki
+Version: 2.1.8
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1060
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/misaki_2.1.8.deb
+Size: 303204
+MD5sum: ec2a8eaeb5c159b78ecce19bd98ed22d
+SHA1: 81646607ea8c2d52d10abf748254625933c476d2
+SHA256: befa5b2ef4c3e455934516e0f138cf037740421c2c7c8c54be6eb07c1f47606c
+Section: Tweaks
+Description: 使用Misaki定制您的iOS 15和16体验。定制选项，让您的iPhone真正属于您。
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+
 Package: com.tools4cydiax
 Version: 2.2.2+rootful
 Architecture: iphoneos-arm64
@@ -491,25 +507,6 @@ Description: 一款支持批量替换文本的悬浮窗工具***，使用说明�
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
 Name: FT悬浮文本增强替换翻译汉化
-
-Package: com.hitori.misaki
-Version: 2.1.8
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1060
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/misaki_2.1.8.deb
-Size: 302774
-MD5sum: fd990687c774717b4d2372de22ea8a24
-SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
-SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
-Section: Tweaks
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Depiction: https://chariz.com/buy/misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
 
 Package: apt.cydiakk.appdata-rootless
 Version: 1.4.2

@@ -493,18 +493,18 @@ Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyx
 Name: FT悬浮文本增强替换翻译汉化
 
 Package: com.hitori.misaki
-Version: 2.1.7
+Version: 2.1.8
 Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1056
+Installed-Size: 1060
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/misaki_2.1.7_iphoneos-arm64.deb
-Size: 302532
-MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
-SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
-SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
+Filename: ./debs/misaki_2.1.8.deb
+Size: 302774
+MD5sum: fd990687c774717b4d2372de22ea8a24
+SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
+SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
 Section: Tweaks
-Description: 使用Misaki定制您的iOS 15和16体验。定制选项，让您的iPhone真正属于您。
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Tag: cydia::commercial, compatible_min::ios15.0
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki

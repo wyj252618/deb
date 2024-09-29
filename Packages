@@ -12,6 +12,24 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.hitori.misaki
+Version: 2.1.8
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1060
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/misaki_2.1.8_iphoneos-arm64.deb
+Size: 303148
+MD5sum: f115e262a79ab78aad1f579794dcda05
+SHA1: d0217f3d9796056bf4bd8a7c61294601b2af1a4b
+SHA256: 3be2104d14d1e2b79db74840bfcfd9a9dc846d7b8ca33ab45b5725efbf7d54fc
+Section: Tweaks
+Description: 使用Misaki定制您的iOS 15和16体验。定制选项，让您的iPhone真正属于您。
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
 Package: com.tools4cydiax
 Version: 2.2.2+rootful
 Architecture: iphoneos-arm64

@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.dvntm.silentnotifs
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/silentnotifs_0.0.1.deb
+Size: 3592
+MD5sum: 5dae5b65dba23b15b631f94d3aad6f01
+SHA1: 5d21d0b44c1d003348230983036cd9f22caf69b8
+SHA256: cd614be82f955001571503d09128a840a904964ab857669316169c224f6e1abd
+Section: Tweaks
+Description: 播放媒体时保持通知静音
+Author: dvntm
+Name: SilentNotifs
+
 Package: com.Virtual.Toolbox
 Version: 1.0
 Architecture: iphoneos-arm64

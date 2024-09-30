@@ -636,16 +636,3 @@ Description: Filza扩展程序用于计算文件系统内的文件夹
 Author: 0xkuj
 Name: FilzaDirProbe
 
-Package: com.xhg.dyhook
-Version: 2.0.3-6
-Architecture: iphoneos-arm64
-Installed-Size: 5280
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音大气层_iphoneos-arm64.deb
-Size: 1896544
-MD5sum: a5a90c05e164a412ce61ead2de402d83
-SHA1: 0832545feeb28a228f52275b21fb3369260ae5af
-SHA256: 28b4b04837f71d7bf2621765177d6d6301505a274efc3cc258d3c55913b8d282
-Section: Tweaks
-Name: 抖音大气层-永久版
-

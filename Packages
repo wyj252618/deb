@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.fidele007.universalmute
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: fidele007
+Installed-Size: 628
+Depends: mobilesubstrate
+Filename: ./debs/Universal Mute.deb
+Size: 49504
+MD5sum: bc9534d16a0f711f466b7f76cb8d0ec1
+SHA1: 292e5ad03cfac9fe88c8d59a2d34de43b74e94b3
+SHA256: ff005a9f61eab6eeb51c5646db806553f16dae546c1f6c710fb65224af66d8c2
+Section: Tweaks
+Description: 当铃声静音时，将媒体音量静音。
+Author: fidele007
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.universalmute
+Name: Universal Mute
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.1
 Architecture: iphoneos-arm64

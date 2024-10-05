@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.82flex.noredirect
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 576
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/禁字决_1.8_iphoneos-arm64.deb
+Size: 53594
+MD5sum: 4c4a5c3851ccaa0808b137864dda4765
+SHA1: fced35c8090c8721d86e186b826fb3bf6183e191
+SHA256: 8b1bab3297d61604dcb89be9cebc05de57ac6f3f9f3ad27c7b9a3f288b3a4fff
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
 Package: com.removewidgetbg
 Version: 1.6
 Architecture: iphoneos-arm64

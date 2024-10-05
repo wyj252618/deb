@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.removewidgetbg
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/透明小组件.deb
+Size: 59632
+MD5sum: e49fb585264273e8663db0120f71718e
+SHA1: 8bae83000bea747728de4a61d78f2ecd839d8da5
+SHA256: 20f8bc3426f3deb4bf12b6f02ec84581e4faeb9d1170dcf2ed82aacf0cd150dd
+Section: Tweaks
+Description: 删除主屏幕上小部件的背景。
+Author: Lessica <82flex@gmail.com>
+Name: 透明小组件
+
 Package: com.fidele007.universalmute
 Version: 1.2
 Architecture: iphoneos-arm64

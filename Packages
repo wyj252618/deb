@@ -12,6 +12,24 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: colorfulwallpaperx
+Version: 4.5k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/动态壁纸.deb
+Size: 1229876
+MD5sum: f92de48fcf49c1e7a6203a502de2af22
+SHA1: 41ee2c8099741d2defcad8f60a3919a8db90142f
+SHA256: 8c25030d35306b82fc45be5d51693162c454afc7e21e142eed9d0e2e081716e8
+Section: Tweaks
+Description: 具有彩色效果的动态壁纸。
+Author: Lessica
+Depiction: https://repo.cypwn.xyz/depiction/2822
+Icon: https://repo.cypwn.xyz/packages/ColorfulWallpaperX-Rootless/icon.png
+Name: ColorfulWallpaperX
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2822
+
 Package: com.82flex.noredirect
 Version: 1.8
 Architecture: iphoneos-arm64

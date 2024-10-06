@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.sunshinesong.recorder-bubble
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/recorder-bubble_0.0.1_iphoneos-arm64.deb
+Size: 41796
+MD5sum: f1ea84c4ed9afc9f9c426f4eadf18642
+SHA1: 0562a9c1147682d7410e2ceb2950dd007e7993f3
+SHA256: fb06c61fc47b159ddd6c0b508d4a4f577c8ef4e4ea864ec1dae2bbf3fb9c6c26
+Section: Tweaks
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Author: sunshinesong
+Name: recorder-bubble
+
 Package: safarix
 Version: 1.3.0
 Architecture: iphoneos-arm64

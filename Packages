@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.xuuz.nathanlrhh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/NathanLR简体中文.deb
+Size: 7744
+MD5sum: 95b7701f4901023fa414bb49ac43c9fd
+SHA1: c07c837e14e9db1dc23399b4a78fb4e2d51214ae
+SHA256: 17512643df8c5ee7b52961f519840cac2a0944e070af1383cb055e5c64ea0c81
+Section: Tweaks
+Description: 安装即生效，完全汉化NathanLR
+Author: XUUᶻ
+Name: NathanLR汉化
+
 Package: com.opa334.ccsupport
 Version: 1.3.13-2
 Architecture: iphoneos-arm64

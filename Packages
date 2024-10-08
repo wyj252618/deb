@@ -18,7 +18,7 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 744
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/SafariX.1.5.3汉化.deb
+Filename: ./debs/SafariX.1.5.3汉化-1.deb
 Size: 308880
 MD5sum: 6b1b8bd10deef32163540e886eec87b1
 SHA1: 8fc5b4b1d2c7419ca3e67d0cb72fbc80e0332c7c

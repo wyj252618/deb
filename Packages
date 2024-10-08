@@ -67,20 +67,6 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
-Package: safarix
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/safarix_1.3.0_iphoneos-arm64.deb
-Size: 276604
-MD5sum: 9beb3fa4b04ec5d10d672aa472b9f50d
-SHA1: a499ee09d6d8be03354aa8313ed0e911bae9f2dd
-SHA256: 77a955401ddbb00af0d98d07c35b3c0504f9c632e87d3064affac324b1893033
-Description: Safari 浏览器多功能增强插件！
-Author: 0xkuj
-Name: SafariX
-
 Package: colorfulwallpaperx
 Version: 4.5k
 Architecture: iphoneos-arm64

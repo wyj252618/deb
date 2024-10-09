@@ -28,6 +28,22 @@ Description: Safari增强
 Author: 0xkuj
 Name: SafariX
 
+Package: com.nahtedetihw.airpodscompanion
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 10704
+Depends: preferenceloader
+Filename: ./debs/Airpods增强.deb
+Size: 10268848
+MD5sum: 0fd61ceda42ed7ba61301a0910706616
+SHA1: 782706d37cbd71798b3e00288cc62c0aee6f3819
+SHA256: edf87cfbfdfbb869d156644411f0a2a30b27701652a119c0d8528bfea6ff07a0
+Section: Tweaks
+Description: Floating Noise Cancellation control next to volume slider
+Author: Ethan Whited
+Name: Airpods增强
+
 Package: com.xuuz.nathanlrhh
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -300,19 +316,6 @@ SHA1: 6e3adfa144fcbba9d3b78244428dd7112b9f8bb1
 SHA256: ab54058f2b3d8bd79c44cdac76dd09ed3463a8e51345026d12337ffd6e786045
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Name: CCBorder16
-
-Package: com.AirPods
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: ETHN
-Depends: preferenceloader
-Filename: ./debs/AirPods耳机伴侣.deb
-Size: 10291016
-MD5sum: b6685739bb5a371ca736317db2583a45
-SHA1: 0a8c7a2ec59dcbd4bf20896e4f47f96de94091c3
-SHA256: 07c62cc4c3662796cf6b4d38c4997237ba98da17bb264cccaa7be82a7dac24cb
-Description: 音量滑块旁边的AirPods时尚控件。
-Name: AirPods耳机伴侣
 
 Package: net.alpine
 Version: 1.4

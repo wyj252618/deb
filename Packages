@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.nan.givemedeb
+Version: 0.3.0
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: ./debs/Give me deb.deb
+Size: 2256
+MD5sum: a844acf767a81d5ede8d871ed9610907
+SHA1: 3da9a0dc6668b235f1825e0cfb39d796b0b3f299
+SHA256: ea18104c45fd14beed44eff52347eb205219482140e7ba8b072440536e9b2885
+Section: Addons
+Description: 直接劫持dpkg，所有经过dpkg的deb都会被保存，保存后的deb存放在 var/mobile/Downloads/dpkg_triggered
+Author: zhaonan <invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Name: Give me deb
+
 Package: com.00000.safarix
 Version: 1.6.1
 Architecture: iphoneos-arm64
@@ -595,21 +611,6 @@ Description: 设置自定义、归类插件
 Author: SOPPPra
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SettingsRevamp设置归类
-
-Package: com.nan.givemedeb
-Version: 0.2.1
-Architecture: iphoneos-arm64
-Maintainer: zhaonan
-Depends: coreutils, sed, gawk
-Filename: ./debs/插件备份.deb
-Size: 2416
-MD5sum: 9e07411f39360da65f5df069397efaf1
-SHA1: 7b40d8df4fa922a17b21698a0c4ed666292935be
-SHA256: f08b23e2a686c92504d1ec57063233c544564b2b47607638ef17dff33b30770b
-Section: Addons
-Description: 直接劫持 dpkg，所有经过 dpkg 的deb 都会被保存， 保存后的deb 存放在 war/mobile/Downloads/dpkg_triggered
-Author: zhaonan <invalidunit@icloud.com>
-Name: Give me deb
 
 Package: MisakaHelper
 Version: 2.1-0

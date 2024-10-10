@@ -13,18 +13,18 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
 Package: com.0xkuj.safarix
-Version: 1.5.3
+Version: 1.6.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
-Installed-Size: 744
+Installed-Size: 748
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/SafariX.1.5.3汉化-1.deb
-Size: 308880
-MD5sum: 6b1b8bd10deef32163540e886eec87b1
-SHA1: 8fc5b4b1d2c7419ca3e67d0cb72fbc80e0332c7c
-SHA256: f42f8287a25d237c0b9de538e74815720fdf9a27754a73a3bccd29e34ff35c94
+Filename: ./debs/Safarix_1.6.0.deb
+Size: 309884
+MD5sum: 7f8d637cf93f1d8fbda5b7d3d843157d
+SHA1: 576ea6b4858e7b7b8b102d509a1c0f503842e1f9
+SHA256: b1d6ee79796d3ccfd0ecd212c4f6a7dcb326da172f37bcd05b1f623446521011
 Section: Tweaks
-Description: Safari增强
+Description: Safari基本功能增强
 Author: 0xkuj
 Name: SafariX
 

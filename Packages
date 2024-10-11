@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.00000.safarix
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 748
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Safarix_1.7.1-1.deb
+Size: 311420
+MD5sum: eea3a5ec74cdf136d30825a33c02e8ca
+SHA1: 580a4e077734b09df7e370ec40f99a3962f14851
+SHA256: 7c58e7d1c7ffc9f9d8af738306ba6e8012f18ff180ff8b29398e168cfca6e2ab
+Section: Tweaks
+Description: Safari基本功能增强
+Author: 0xkuj
+Name: SafariX
+
 Package: com.nan.givemedeb
 Version: 0.3.0
 Architecture: iphoneos-arm64
@@ -27,22 +43,6 @@ Description: 直接劫持dpkg，所有经过dpkg的deb都会被保存，保存�
 Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: Give me deb
-
-Package: com.00000.safarix
-Version: 1.6.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 748
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Safarix_1.6.1.deb
-Size: 278484
-MD5sum: 175ddfbea293a47feaae18be408881ce
-SHA1: 4dcd3d3f4c6205d255e6405c4c8a2fbbd887ca1c
-SHA256: 1c8e137f88142e771d0da1d768ffe375e06964b3b85b286ad3c4d30680292929
-Section: Tweaks
-Description: Safari基本功能增强
-Author: 0xkuj
-Name: SafariX
 
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.5

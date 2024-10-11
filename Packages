@@ -13,20 +13,36 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
 Package: com.00000.safarix
-Version: 1.7.1
+Version: 1.7.2
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 748
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Safarix_1.7.1-1.deb
-Size: 311420
-MD5sum: eea3a5ec74cdf136d30825a33c02e8ca
-SHA1: 580a4e077734b09df7e370ec40f99a3962f14851
-SHA256: 7c58e7d1c7ffc9f9d8af738306ba6e8012f18ff180ff8b29398e168cfca6e2ab
+Filename: ./debs/Safarix_1.7.2.deb
+Size: 311760
+MD5sum: 69a923adde53872ced344376bcb33d32
+SHA1: d89a7864b10ba925fc2f0d762a36edcd52f38cf1
+SHA256: 04c03123a40afb78d6f27ae12f33d3445cbba8e3007ff521823864423911b8b4
 Section: Tweaks
 Description: Safari基本功能增强
 Author: 0xkuj
 Name: SafariX
+
+Package: com.sunshinesong.volume-manager
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/多app音量实时修改.deb
+Size: 253032
+MD5sum: 9f4aa9a3e8eb0abe5b8d26fa299bdddc
+SHA1: a8111d4d100d2a3d0c4db41ec1da21d8a1ffaa3f
+SHA256: 465ba2834352fa532e48cd67ffd715cdd7619f2af03a626fe7a1ca977d5ef89b
+Section: Tweaks
+Description: 音量管理，就是这么简单。包含功能：混响、多元化音量。
+Author: sunshinesong
+Name: VolumeManager
 
 Package: com.nan.givemedeb
 Version: 0.3.0

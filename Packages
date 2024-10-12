@@ -778,19 +778,3 @@ Section: Tweaks
 Description: 适配任何带锁屏歌词的应用！
 Author: Mika
 Name: 桌面歌词
-
-Package: com.0xkuj.filzadirprobe
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 240
-Filename: ./debs/FilzaDirProbe_1.4.1_iphoneos-arm64.deb
-Size: 34872
-MD5sum: 6b20acee57266f0c0528669f764a3840
-SHA1: 07849b2d6f558575407584ca614b2c9a2c69087f
-SHA256: f8288778b3a9a0bd4bc31060ec7f8f3304b07cfe1aa04216646a5b0d3efbc506
-Section: Tweaks
-Description: Filza扩展程序用于计算文件系统内的文件夹
-Author: 0xkuj
-Name: FilzaDirProbe
-

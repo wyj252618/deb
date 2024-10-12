@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/Filzadirprobe_1.6.0_iphoneos-arm64.deb
+Size: 35908
+MD5sum: 00c9759a0aed061bedb039b76d2941f2
+SHA1: f0fc78ff468e8d28dbad405ab8c0896390316b22
+SHA256: 62b84329d9213c1a9c9cc6efaae57e4f17cbae2c4c42dabea42c14bbcf45d09b
+Section: Tweaks
+Description: Filza扩展程序用于计算文件系统内的文件夹
+Author: 0xkuj
+Name: FilzaDirProbe
+
 Package: com.00000.safarix
 Version: 1.7.2
 Architecture: iphoneos-arm64

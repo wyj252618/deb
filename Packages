@@ -12,6 +12,30 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.mika.iwall
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3925
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.floatlyricxi.iwall
+Replaces: com.floatlyricxi.iwall
+Filename: ./debs/iwall_1.4.5_iphoneos-arm64.deb
+Size: 706020
+MD5sum: bb396eb624db5a626a8083ad9cfecc57
+SHA1: a9ba76b10c641a2d19f75aafd85d520103522ed1
+SHA256: 75a8389dcae8b11a34e4f2dc08e1571df19193ef7f87882b13b322ca80759ba8
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwallDp
+Description: 可设置桌面、锁屏、控制中心、通话、‘设置’、‘微信’背景为视频
+Tag: purpose::uikit
+Author: Mika <mika368@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwallDp
+Dev: mika368
+Icon: file:///Library/PreferenceBundles/iwallbundle.bundle/iphone@2x.png
+Name: iWall
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.0xkuj.filzadirprobe
 Version: 1.6.0
 Architecture: iphoneos-arm64

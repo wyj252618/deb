@@ -12,6 +12,26 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: me.autotouch.autotouch.ios8
+Version: 8.5.0
+Architecture: iphoneos-arm64
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 135308
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/Autotouch_8.5.0_iphoneos-arm64.deb
+Size: 22114488
+MD5sum: 933264ac9324545e4b15507e39d3d864
+SHA1: f35197de59b22368538c520a3824cb4606169608
+SHA256: 7fcccf36e11eafca59d0a4b553c3a308af65866d0fb60d45bab74703a1db3875
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: 录制和回放触摸操作，自动播放宏脚本。
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch连点器
+
 Package: com.mika.iwall
 Version: 1.4.5
 Architecture: iphoneos-arm64

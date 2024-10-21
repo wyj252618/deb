@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.ketty.meowtimemachine
+Version: 0.0.1-106+debug
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Installed-Size: 6912
+Depends: firmware (>= 14.0)
+Filename: ./debs/插件备份.deb
+Size: 2322720
+MD5sum: 563ade5bff0ba86a2fd925e447ba8750
+SHA1: f3d606c459eaaa040eda877a83e5d381a3eaf3bd
+SHA256: 796bf17e005bcb4d329e9f8af62e7373fbdf5ffd0216679a43e05d869b9d93fd
+Section: Axs-Tweaks
+Description: 备份目录/var/mobile/Documents/MeowTimeMachine
+Author: 预言小猫
+Name: 插件备份(含配置)
+
 Package: me.autotouch.autotouch.ios8
 Version: 8.5.0
 Architecture: iphoneos-arm64

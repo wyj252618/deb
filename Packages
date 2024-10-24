@@ -17,10 +17,10 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: null
 Filename: ./debs/AutoScroll自动滑动_1.0_iphoneos-arm64.deb
-Size: 36028
-MD5sum: c09b42a41c4547df4e8af4a383785fa4
-SHA1: e04d57de25e134e59731a551b447f2d4f978fdfc
-SHA256: 92c3a1bb33a3217530a7dbd040aa02a4950bf1bf26e03f5b7a1eab40ab813c39
+Size: 36024
+MD5sum: 93a0eff52c40a91083e8f0ac469d7f19
+SHA1: 099daa750c429251e1d1fcdfbaa255313f51dca6
+SHA256: aeaec4e996ceadc6a11736fa598689ad02ad140b379cffe89a5b26748a7625af
 Description: 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止
 Name: AutoScroll自动滑动
 

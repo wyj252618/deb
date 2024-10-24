@@ -12,6 +12,18 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.AutoScroll
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Filename: ./debs/AutoScroll自动滑动_1.0_iphoneos-arm64.deb
+Size: 36028
+MD5sum: c09b42a41c4547df4e8af4a383785fa4
+SHA1: e04d57de25e134e59731a551b447f2d4f978fdfc
+SHA256: 92c3a1bb33a3217530a7dbd040aa02a4950bf1bf26e03f5b7a1eab40ab813c39
+Description: 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止
+Name: AutoScroll自动滑动
+
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
 Architecture: iphoneos-arm64

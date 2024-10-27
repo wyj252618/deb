@@ -12,6 +12,24 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.nightwind.jade
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 1509
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Jade_1.0.3_iphoneos-arm64.deb
+Size: 308660
+MD5sum: f69f6a9892816907eec14333157c2fa5
+SHA1: c1890938a1d5f5ea5196578ed608c11d6a36d08b
+SHA256: 94870342ceb877edfe4277c836538eb924b1ab45f9afbf0e875a4f4e1736923f
+Section: Nightwind
+Description: 重新定义控制中心，屏幕底部弹出
+Author: Nightwind and thetimeloop
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Jade
+Sponsor: Nightwind
+
 Package: com.AutoScroll
 Version: 1.0
 Architecture: iphoneos-arm64

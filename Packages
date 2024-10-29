@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/kayoko_2.7_iphoneos-arm64.deb
+Size: 123788
+MD5sum: cd8486dfb009421a246f819fc5dc3553
+SHA1: 0b50845df60f6caefee5612ced5367b6102b7976
+SHA256: 6c3436be6d55d9b91f19e9add380b887a177b1e1e46eb728c9cf827cb92ece39
+Section: Tweaks
+Description: iOS版剪贴板管理器。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
 Package: com.nightwind.jade
 Version: 1.0.3
 Architecture: iphoneos-arm64

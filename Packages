@@ -12,6 +12,25 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: xyz.skitty.spectrum
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 580
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Filename: ./debs/Spectrum_1.1_iphoneos-arm64.deb
+Size: 61676
+MD5sum: 279d9b92f017400087322c06189041e0
+SHA1: 99eaf228cb76ad292ba1a8131577b2b278f4a09a
+SHA256: d2eaef09ecc25b1cf9c1b758df37f2787f2074179a120f29d147f67b16a41d4b
+Section: Tweaks
+Description: 自定义系统颜色！
+Author: Skitty & EvenDev
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Name: Spectrum
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
+
 Package: codes.aurora.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64

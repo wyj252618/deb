@@ -12,6 +12,24 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.bubbleapps
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 808
+Depends: com.opa334.altlist
+Filename: ./debs/Bubbleapps_3.0.0_iphoneos-arm64.deb
+Size: 256488
+MD5sum: a4316d02f7f8bee14d658b8e1372bd57
+SHA1: 3b25a256beb7d59bddc090da56f8cdb1c0918e97
+SHA256: e543e5f2380302ed7a616d0eecfe402c8555ee4c9dc0342887b060c35e91500e
+Section: 0xkuj
+Description: Bubble Apps 是一种新的自由方式，可让您的应用程序在 iPhone 上的任何位置都随处可见。创建这些气泡后，您可以将它们拖动到屏幕上的任何位置，然后选择哪些屏幕将包含这些气泡。
+Author: 0xkuj
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Bubble Apps
+Sponsor: 0xkuj
+
 Package: com.udevs.debhoarder
 Version: 1.0.4
 Architecture: iphoneos-arm64

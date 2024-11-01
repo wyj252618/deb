@@ -12,6 +12,24 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.udevs.debhoarder
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 360
+Depends: mobilesubstrate
+Filename: ./debs/Debhoarder_1.0.4_iphoneos-arm64.deb
+Size: 38168
+MD5sum: cf46f6442d079878eb64a140e4d77e2e
+SHA1: 9900663ca2be01dea679876f35dd8de097bbaf34
+SHA256: 75a8ac014f49977d1f56c4fa3e7eb142c609dcd2c3ed586e6f49d701339b07dd
+Section: Tweaks
+Description: 直接劫持dpkg，所有经过dpkg的deb都会被保存，保存后的deb存放在/var/mobile/Downloads/DebHoarder/Sileo
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
+Name: DebHoarder
+
 Package: com.0xkuj.notificationsgroupcount
 Version: 1.0.1
 Architecture: iphoneos-arm64

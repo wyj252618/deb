@@ -64,23 +64,6 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
 Name: DebHoarder
 
-Package: com.0xkuj.notificationsgroupcount
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 416
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/notificationsgroupcount_1.0.1_iphoneos-arm64.deb
-Size: 68656
-MD5sum: 2313e76ff1051eb211ecf8df50e18c8b
-SHA1: a40e96b80398861382fc1dd730a417f060cc43cf
-SHA256: bf421400464b88daa68da9a929abbd6cb0252abed3c8fb522963bede06725f85
-Section: Tweaks
-Description: 通知中心消息分组计数
-Author: 0xkuj
-Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
-Name: 通知中心消息分组计数
-
 Package: xyz.skitty.spectrum
 Version: 1.1
 Architecture: iphoneos-arm64

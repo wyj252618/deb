@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.mtac.bridge
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC • ETHN
+Installed-Size: 7104
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
+Filename: ./debs/Bridge_1.2.1_iphoneos-arm64.deb
+Size: 4947388
+MD5sum: 081427e5514b7a57c62f80b4c9f818c1
+SHA1: 0a102c0009fbaad00bc58e1289d7e3048480f0eb
+SHA256: ca6c7e22183a490d2032833d2532110d8b6b3f97b62314c2b7a1fe62a7efcc15
+Section: Tweaks
+Description: The Apple Watch homescreen experience brought to iOS
+Author: MTAC • ETHN
+Name: Bridge
+
 Package: com.bubbleapps
 Version: 3.0.0
 Architecture: iphoneos-arm64

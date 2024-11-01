@@ -112,22 +112,6 @@ SHA256: aeaec4e996ceadc6a11736fa598689ad02ad140b379cffe89a5b26748a7625af
 Description: 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止
 Name: AutoScroll自动滑动
 
-Package: com.ketty.meowtimemachine
-Version: 0.0.1-106+debug
-Architecture: iphoneos-arm64
-Maintainer: 预言小猫
-Installed-Size: 6912
-Depends: firmware (>= 14.0)
-Filename: ./debs/插件备份.deb
-Size: 2322720
-MD5sum: 563ade5bff0ba86a2fd925e447ba8750
-SHA1: f3d606c459eaaa040eda877a83e5d381a3eaf3bd
-SHA256: 796bf17e005bcb4d329e9f8af62e7373fbdf5ffd0216679a43e05d869b9d93fd
-Section: Axs-Tweaks
-Description: 备份目录/var/mobile/Documents/MeowTimeMachine
-Author: 预言小猫
-Name: 插件备份(含配置)
-
 Package: me.autotouch.autotouch.ios8
 Version: 8.5.0
 Architecture: iphoneos-arm64
@@ -218,22 +202,6 @@ Section: Tweaks
 Description: 音量管理，就是这么简单。包含功能：混响、多元化音量。
 Author: sunshinesong
 Name: VolumeManager
-
-Package: com.nan.givemedeb
-Version: 0.3.0
-Architecture: iphoneos-arm64
-Maintainer: zhaonan
-Depends: coreutils, sed, gawk
-Filename: ./debs/Give me deb.deb
-Size: 2256
-MD5sum: a844acf767a81d5ede8d871ed9610907
-SHA1: 3da9a0dc6668b235f1825e0cfb39d796b0b3f299
-SHA256: ea18104c45fd14beed44eff52347eb205219482140e7ba8b072440536e9b2885
-Section: Addons
-Description: 直接劫持dpkg，所有经过dpkg的deb都会被保存，保存后的deb存放在 var/mobile/Downloads/dpkg_triggered
-Author: zhaonan <invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Give me deb
 
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.5

@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: ios-rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iBreak <xuanhua880@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/全局开关标签_0.0.1_iphoneos-arm64.deb
+Size: 3300
+MD5sum: 98cc146ed2146b20c7242b2d27ad0ba7
+SHA1: 89b48f7d4803acec494c39012fdc70d8edc0ac2c
+SHA256: 316667723f1cf5482d2000a4746b4ec469b56ba39190dd961a04deaca601c3e9
+Section: Tweaks
+Description: 开启方法：前往：设置 - 辅助功能 - 显示与文字大小 - 开/关标签
+Author: iBreak <xuanhua880@gmail.com>
+Name: 全局开关颜色
+
 Package: ws.hbang.newterm3
 Version: 3.0
 Architecture: iphoneos-arm64

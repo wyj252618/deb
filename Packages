@@ -19,10 +19,10 @@ Maintainer: 0xkuj
 Installed-Size: 792
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/Safarix_1.9.0_iphoneos-arm64.deb
-Size: 323152
-MD5sum: a2ab2762cf05cb09781239a65cd9d8d3
-SHA1: c3796b7e7ca64185ccfcb642f23fc99f50b664ca
-SHA256: 63542f488f6e9581c66b2d763c969f21b3c9202bd1b8df2a3f8ae229cdb1e3dd
+Size: 302444
+MD5sum: 905df989148a2336cade4caae4fa70af
+SHA1: 7b22ae2991333aadda1802b17741b70328834944
+SHA256: d46328ac0c36cf874d19ebb3f6f04d2123cf96c945098b6658398081352237fc
 Section: Tweaks
 Description: Safari Essential Features
 Author: 0xkuj

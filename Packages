@@ -12,26 +12,6 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
-Package: com.appaze3
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Installed-Size: 1802
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
-Conflicts: com.anthopak.appaze, com.anthopak.appaze2
-Filename: ./debs/appaze3_1.0_iphoneos-arm64.deb
-Size: 863932
-MD5sum: 02efc46a4964996f50c82a78108679f8
-SHA1: 6ce75c48a11b475a6d82c84bf781103cf822266d
-SHA256: 886a3c2890e97e4d5e5154ff250f2ea6ae61251b00753da6c18937c1fcf9cadb
-Section: Tweaks
-Description: 在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://chariz.com/buy/appaze3
-Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
-Name: Appaze 3
-
 Package: com.0xkuj.safarix
 Version: 1.9.0
 Architecture: iphoneos-arm64

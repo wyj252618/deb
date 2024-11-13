@@ -19,11 +19,11 @@ Maintainer: AnthoPak <anthopakdev@gmail.com>
 Installed-Size: 1802
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2
-Filename: ./debs/Appaze3_1.0_iphoneos-arm64.deb
-Size: 837668
-MD5sum: d59eb600b1f1aff43e392635ac5491ae
-SHA1: 023b40490c748825aeb7c27514801c96a7055947
-SHA256: eab99b32617303cbb3ce2e303cf692acfe8010e46129a62bfcc808fabed87a1b
+Filename: ./debs/appaze3_1.0_iphoneos-arm64.deb
+Size: 863932
+MD5sum: 02efc46a4964996f50c82a78108679f8
+SHA1: 6ce75c48a11b475a6d82c84bf781103cf822266d
+SHA256: 886a3c2890e97e4d5e5154ff250f2ea6ae61251b00753da6c18937c1fcf9cadb
 Section: Tweaks
 Description: 在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
 Tag: cydia::commercial, compatible_min::ios15.0

@@ -18,11 +18,11 @@ Architecture: iphoneos-arm64
 Maintainer: Lynx
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: ./debs/Lynx_2.5.3_iphoneos-arm64.deb
-Size: 655796
-MD5sum: d89a5d9c60f9a460a4069d8e541c4b5c
-SHA1: 6e4175a15074c90785ccc509ccede5f1f79738d6
-SHA256: 7cf2d909dc76597930872679d82c857fb3fd300b9a077117c4d10fd2a6af5c71
-Description: ios终极定制
+Size: 655724
+MD5sum: 5aea6b1f5fb6212a61c661779598003c
+SHA1: 3bfdf5191ad5f5bc76f1798dd7f17bb5dbb1308c
+SHA256: a7b1a4f2f0ea725d5cf0409a9de8700a551d3d86a8c053b4386cce86ebfe8d47
+Description: ios终极定制，已完全汉化
 Author: MTAC
 Name: Lynx 2
 

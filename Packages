@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.mystery.sanjeh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Mysteryexe
+Installed-Size: 1224
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debs/Sanjeh_1.0_iphoneos-arm64.deb
+Size: 669640
+MD5sum: f8226a0408180f72e22d19c298ada502
+SHA1: 2decd3dfc1da91e07f64e71e8bed49ea08d54ba9
+SHA256: b99fb2072047f02db11b06f2f90508b60741a1b6cff1991823ef18a49b7f7f9d
+Section: Tweaks
+Description: 花哨的电池弹出窗口
+Author: Mysteryexe
+Icon: https://mysteryexe.xyz/repo/sanjehIcon.png
+Name: Sanjeh
+
 Package: com.appaze3
 Version: 1.0
 Architecture: iphoneos-arm64

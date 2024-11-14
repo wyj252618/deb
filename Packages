@@ -12,6 +12,20 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.lynxtwc
+Version: 2.5.3
+Architecture: iphoneos-arm64
+Maintainer: Lynx
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/Lynx_2.5.3_iphoneos-arm64.deb
+Size: 655796
+MD5sum: d89a5d9c60f9a460a4069d8e541c4b5c
+SHA1: 6e4175a15074c90785ccc509ccede5f1f79738d6
+SHA256: 7cf2d909dc76597930872679d82c857fb3fd300b9a077117c4d10fd2a6af5c71
+Description: ios终极定制
+Author: MTAC
+Name: Lynx 2
+
 Package: com.mystery.sanjeh
 Version: 1.0
 Architecture: iphoneos-arm64

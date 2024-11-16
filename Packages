@@ -12,6 +12,42 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.checkproxybypass
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Susu <xuanhua880@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/去除抓包检测_0.1.2_iphoneos-arm64.deb
+Size: 4596
+MD5sum: 6508215a767bad773dff607eca61b3a1
+SHA1: cbbc37b43c7ba3a40181257269f6c180e2ce0d31
+SHA256: 22a8de79ab5022f787ca79c1836456f545462dd0edd5e8f5ef9a41194ef7f66d
+Section: Tweaks
+Description: 去除app抓包检测,安装之后在设置里面开启
+Author: Susu <xuanhua880@gmail.com>
+Icon: https://susuroot.github.io/images/vpn.png
+Name: 关闭抓包检测
+
+Package: com.settingsrevamp
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 936
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/SettingsRevamp_3.0.0_iphoneos-arm64.deb
+Size: 249804
+MD5sum: 4858ec803db30d441004234f0af2526a
+SHA1: 8aeaa90e944faed34016b866fed3d4aca064e07d
+SHA256: f255e0cf8be8ad00f20b7fa9de50471ffa61cb75cb0c7059c3d80935aea712bc
+Section: Tweaks
+Description: 自定义ios设置页面，已汉化
+Author: SOPPPra
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Name: 设置归类
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+
 Package: com.lynxtwc
 Version: 2.5.3
 Architecture: iphoneos-arm64

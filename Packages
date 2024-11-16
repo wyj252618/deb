@@ -517,22 +517,6 @@ SHA256: 45ff2683c6eed6bd8d524a156fd59ca1c160edf121c20d6332757848f73623b0
 Description: 三指双击或双击导航栏（基本就是app顶部位置）调出悬浮标或菜单
 Name: 虚拟工具箱
 
-Package: com.tools4cydiax
-Version: 2.2.2+rootful
-Architecture: iphoneos-arm64
-Maintainer: Tools4cydia
-Installed-Size: 1444
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/Tools4cydiax_2.2.2.deb
-Size: 1020580
-MD5sum: 35cb597ef1845caed1f90c1a1597da17
-SHA1: 3f8d805060ef005e3d691911bf2256550e04833b
-SHA256: 9e8167354bd4a30a394695f90a25d0e6d551dc0fd04b66893484e22f8e82c1a7
-Section: Hack
-Description: أداة حاليا تحت التطوير ما يفتح كل ميزات داخل تطبيقات كل اصدار اضيف فيه اكواد اكثر حتى يكتمل على اغلب تطبيقات والعاب !
-Author: Tools4cydia
-Name: Tools4cydia
-
 Package: ThemePro
 Version: 3.1.0
 Architecture: iphoneos-arm64
@@ -795,13 +779,6 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Author: Soh Satoh
 Name: FreePIP
 
-Package: ws.hbang.newterm3
-Version: 3.0~beta1
-Architecture: iphoneos-arm64
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 14899
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-
 Package: milkyway4
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -886,23 +863,6 @@ SHA256: 25582e992b5d775f5d59cad728ac64c54cfd83fb3b2979b9b56f7cbf48d89e95
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
-
-Package: apt.cydiakk.settingsrevamp-rootless
-Version: 2.1.1
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
-Filename: ./debs/SettingsRevamp设置归类.2.1.1.deb
-Size: 118336
-MD5sum: 641c997c6622ee1ac2e47c3280865deb
-SHA1: 665c7ac0b1a25de12e6cc7680c6dd262af6f4be2
-SHA256: b38f9dd164563a2ded0be7e4d57091395fe9d59cbcf1c191d5f5c2987342916c
-Section: 插件列表
-Description: 设置自定义、归类插件
-Author: SOPPPra
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: SettingsRevamp设置归类
 
 Package: MisakaHelper
 Version: 2.1-0

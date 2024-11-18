@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.smoothcursorios
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/滑动光标.deb
+Size: 3112
+MD5sum: 7975a4b5e38b27e7a4dd09fdf2d87d2a
+SHA1: ce8719ae1910ba9dba37f50b1ea023d28041195d
+SHA256: 81e5b2f0375b71c791d0de735570062dbab262f59284d31bfc64a111b2cc935b
+Section: Tweaks
+Description: 仿Office 2013的输入光标
+Author: PoomSmart
+Name: 滑动光标
+
 Package: com.checkproxybypass
 Version: 0.1.2
 Architecture: iphoneos-arm64

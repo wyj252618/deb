@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.calculatorhistory
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/计算器历史记录.deb
+Size: 23220
+MD5sum: 5db01e1d45beaf60cdd0d0157958e690
+SHA1: 268674775aff30342e1dcca271b5e16f107abf2e
+SHA256: 48ea80850b2b5a96cf2aac7a21c287b551393b7ebd79703c395b870bd8449ad8
+Section: Tweaks
+Description: 计算器获得历史记录汉化版
+Author: fiore
+Name: 计算器历史记录
+
 Package: com.smoothcursorios
 Version: 0.0.1
 Architecture: iphoneos-arm64

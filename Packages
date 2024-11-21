@@ -19,11 +19,11 @@ Maintainer: AnthoPak
 Installed-Size: 1802
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2
-Filename: ./debs/Appaze3_1.0.1.deb
-Size: 868796
-MD5sum: 03af6046dae1eaea73d0df3a49e55a90
-SHA1: 1ce55cb807def4b8063de680d4834bc19fd4057d
-SHA256: 5863dbd6bc62469c87cf337a8f0fdd26d6a5305dec8c527d97b39188ec90cf02
+Filename: ./debs/Appaze3_1.0.1_iphoneos-arm64.deb
+Size: 872812
+MD5sum: 4d98b7c32734566ca40e749f2d4493b0
+SHA1: ba68b92b21b084ca73c7b53f5071de845ec8f266
+SHA256: 2a80b39db7918f65349012e600f7b63d4065e30620920c543f3177de6e471d7c
 Section: Tweaks
 Description: 在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
 Author: AnthoPak

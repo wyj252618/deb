@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: ws.hbang.newterm3
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 玩游戏的李子- <xuanhua880@gmail.com>
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Filename: ./debs/NewTerm.deb
+Size: 18633372
+MD5sum: 9f962ec0429110d34859d55222804463
+SHA1: 819bb411b46c3ea6c673c34d16ad6c2a3fafd876
+SHA256: 339100d60b25a0c74e0e646b179c6df7c0e5c40ebaa48d0e23357062acbb727f
+Section: Tweaks
+Description: newterm3中文版(带theos包，无sdk)
+Author: 玩游戏的李子- <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm3中文版
+
 Package: com.safariii
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -209,22 +225,6 @@ Section: Tweaks
 Description: 开启方法：前往：设置 - 辅助功能 - 显示与文字大小 - 开/关标签
 Author: iBreak <xuanhua880@gmail.com>
 Name: 全局开关颜色
-
-Package: ws.hbang.newterm3
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: 玩游戏的李子- <xuanhua880@gmail.com>
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Filename: ./debs/Newterm3_3.0_iphoneos-arm64.deb
-Size: 18537064
-MD5sum: f303f584bec6b3003859558cab648f8e
-SHA1: b5ed92176868478425b24c3d20301f74973c76d9
-SHA256: febfaf11e47df037461e54e7f5170c0a1d7b028eef3f5652a86ca433a41be1e2
-Section: Tweaks
-Description: newterm3中文版(带theos包，无sdk)，李子博客上找教程
-Author: 玩游戏的李子- <xuanhua880@gmail.com>
-Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
-Name: NewTerm3中文版
 
 Package: com.nx.appcardlite
 Version: 3.1.0

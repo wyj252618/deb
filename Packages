@@ -12,6 +12,22 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: com.safariii
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Safariii_0.0.1_iphoneos-arm64.deb
+Size: 2992
+MD5sum: e81151c9ef4bc5d02ca9e04afa21b6d9
+SHA1: 594b7645c81b436a70cae23295869ee405cd8dc0
+SHA256: 0b19b5eb908640838c2d19a4be9a2be7d5f2d25fbbba1aaff87615941517e3e9
+Section: Tweaks
+Description: 在地址栏的启动页面上显示菜单按钮
+Author: dvntm
+Name: Safariii
+
 Package: lilliana.apphider.lans233
 Version: 0.0.2
 Architecture: iphoneos-arm64

@@ -12,6 +12,23 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: lilliana.apphider.lans233
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 596
+Depends: mobilesubstrate, firmware (>= 12.2), com.opa334.altlist
+Filename: ./debs/App Hider新的应用隐藏助手.deb
+Size: 77024
+MD5sum: 19d27e36493d34a896ce5dd027205a46
+SHA1: 905247dffca26628f9e75c6f3f1afaa58167d9e9
+SHA256: e7c4f8fa820f0d71572c9d43262008561afb72b154707efac2fb668161a1b868
+Section: Tweaks
+Description: 此版本的应用隐藏比bigboss源上的那个好用，完全免费，可以隐藏应用使其消失在搜索，资源库，主屏幕上
+Author: Paisseon
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider新的应用隐藏助手
+
 Package: com.appaze3
 Version: 1.0.1
 Architecture: iphoneos-arm64

@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: net.tvlock
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: wes
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/TVLock.deb
+Size: 32460
+MD5sum: 4bc541b05d3d79ae46643a474c0fb121
+SHA1: a9da1343730696293dcfbd73d5f82e29386a3bfd
+SHA256: 1a52e31faa3654ef0a02e7bc3542a1ec8d76453b60d94184364bbe63dfafb43d
+Description: 一款非常不错的锁屏动画插件，模仿电视机关闭的动画
+Author: Wes
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: TVLock电视锁屏
+Sponsor: wes
+
 Package: net.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64

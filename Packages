@@ -12,23 +12,6 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
-Package: com.daynightswitch
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 608
-Depends: mobilesubstrate
-Filename: ./debs/日月开关.deb
-Size: 93524
-MD5sum: 77e9d26d4a46741b46b9a1d02f14f1dc
-SHA1: e9c661e29e0fae61ce62068210d09b2414a35c72
-SHA256: 85d6ad0596fd3cd962f3c5e5680f801467c79306136725e03e54d04419c22b38
-Section: 插件
-Description: 为您的开关添加一些风格
-Author: 苏苏
-Icon: https://susubaby.top/images/kaiguan.png
-Name: 日月开关
-
 Package: ws.hbang.newterm3
 Version: 3.0
 Architecture: iphoneos-arm64

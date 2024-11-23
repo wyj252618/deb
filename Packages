@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.removewidgetbg
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/透明小组件.deb
+Size: 29724
+MD5sum: b243cea288300fe047760ece91f37fbf
+SHA1: 3481804cb96d995726f41b403d0eaf390026906a
+SHA256: 2a8e460555a91507368693a1d8468dee718a838bf4283ababb74c572f77f6ed8
+Section: Tweaks
+Description: 删除主屏幕上小部件的背景。
+Author: Lessica <82flex@gmail.com>
+Name: 透明小组件
+
 Package: net.tvlock
 Version: 1.2.3
 Architecture: iphoneos-arm64

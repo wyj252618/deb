@@ -13,6 +13,24 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: cn.appdata
+Version: 1.3.6-3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 356
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/AppData.deb
+Size: 76516
+MD5sum: 58f743b23458232dbca6d32a3e110fb4
+SHA1: bd8d9f4b41c3eb8dae0875a218c5c0889aa6911a
+SHA256: eb5ed58696719047a8f8efabe64c9ee6afb72e274aad2b69643fb2f00a6c4474
+Section: Tweaks
+Description: 从主屏幕查看和管理应用程序数据
+Author: Fouad Raheb <support@fouadraheb.com>
+Name: AppData
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
+
 Package: com.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64

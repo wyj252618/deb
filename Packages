@@ -12,6 +12,21 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: net.leftpar
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com <admin@25mao.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/左滑返回.deb
+Size: 44244
+MD5sum: 2203be896dbca63c796d5e6431f80220
+SHA1: 08bead954d694058c69fdff91a9b2631b33d9893
+SHA256: 1fb5d43024a55fdc22b35a463fa9409e1a33ad35cd259930fe51c087f0eefbae
+Section: 系统增强
+Description: 左滑返回上一页面
+Author: Mao
+Name: 左滑返回
+
 Package: net.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64

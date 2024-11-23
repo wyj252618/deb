@@ -12,6 +12,39 @@ Author: Wes
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: TVLock电视锁屏-Rootless
 
+Package: net.classickeyboardxs
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 1060
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/键盘高度调整.deb
+Size: 233780
+MD5sum: ec972576cb9e7815fd588bae25b1344e
+SHA1: 5bb8d1488a148452b97472aba0dd72c417f83bc2
+SHA256: db0d6baf7c739e6e8be12d0b0b4f73d38d486a6de1746e51fe00967085a9ac60
+Section: 系统增强
+Description: 自定义X键盘底部高度，地球底部高度等
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 键盘高度调整
+Sponsor: Netskao
+
+Package: qcjpyc.llld
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/去除键盘延迟.deb
+Size: 3452
+MD5sum: 01bcc98da533035e851ef4b4f27ff147
+SHA1: 21568b22a483f4967d200fdf41e500e4518457d2
+SHA256: c14e153cd9323090633b940e0e17f30149a129a206d61238e7eb026f0ad05615
+Section: rootless插件
+Description: 去除键盘的延迟(主用作于第三方，若没有延迟，则不用装)，安装即生效。
+Author: 来了老弟
+Name: 去除键盘延迟
+
 Package: ws.hbang.newterm3
 Version: 3.0
 Architecture: iphoneos-arm64

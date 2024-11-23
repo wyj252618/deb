@@ -1,17 +1,3 @@
-Package: byg.iosios.net.tvlock
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/byg.iosios.net.tvlock_1.2.deb
-Size: 32772
-MD5sum: d11b8319a74846446ece60289cb276f6
-SHA1: cd98a2dc27bdc46ee9b7efa6100fa4416fbb46bf
-SHA256: 51b899c4c09c74c849df96a4edec4d60aef4657680b9b122366bb4bbdebb8979
-Description: Awesome TV turning off animation for locking!一款非常不错的锁屏动画插件，模仿电视机关闭的动画，看起来很复古！安装注销即可生效！喜欢美化的小伙伴们都惊呆了！
-Author: Wes
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: TVLock电视锁屏-Rootless
-
 Package: net.leftpar
 Version: 1.0-6
 Architecture: iphoneos-arm64

@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: zp.cocoatop64
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: zp
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/CocoaTop64.deb
+Size: 139024
+MD5sum: 43f6b843ab2a89883910d4279400a364
+SHA1: 8b529db25d89a5cdc72607881d930f8bad8eebfa
+SHA256: e3692ba43deba85ce9b26768608b951774fb13ddcd00a8a407150d363cb34044
+Section: Utilities
+Description: 适配rootless并增加一些小功能.- 1.长按图标的插件针对APP更友好- 2.此app更适合屏蔽进程类的注入- 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
+Author: Domo
+Name: CocoaTop64
+
 Package: net.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64

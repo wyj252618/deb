@@ -13,6 +13,24 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: net.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/iCleanerPro.deb
+Size: 1101280
+MD5sum: d4f12705adcf91ee699df7d420f9fc1c
+SHA1: 62f2c2c914a4a8c77cda69ddb64c55c1d5709770
+SHA256: 66df9f4675ca3343556e2ef2e26148137970212f56d915a30cff7ac88a8bfa56
+Section: 系统增强
+Description: iOS最强的垃圾清理工具，此为官方破解版，全功能破解！
+Author: Ivano Bilenchi
+Name: iCleaner Pro
+Sponsor: Ivano Bilenchi
+
 Package: cn.appdata
 Version: 1.3.6-3
 Architecture: iphoneos-arm64

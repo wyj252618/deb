@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.smallboard
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Depends: mobilesubstrate
+Conflicts: com.icraze.smallboard
+Filename: ./debs/键盘下沉.deb
+Size: 3644
+MD5sum: 89720baaa2e6f0154418103fd0e98271
+SHA1: 94f0696a78f5a295f8c9d440bea4747f3f56f58c
+SHA256: 730ea4a0caff36f9f4b0916581a0ef5012ea8c699806bd1ce48db03ac1ea4f1d
+Section: B-系统增强
+Description: 缩小键盘与底部的间隙，无设置项，安装注销生效。
+Author: iCraze
+Name: 键盘下沉
+
 Package: com.opa334.whitepointmodule
 Version: 1.2.2
 Architecture: iphoneos-arm64

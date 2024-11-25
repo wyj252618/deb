@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.opa334.whitepointmodule
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: opa334 <xuanhua880@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./debs/白点模块.deb
+Size: 15316
+MD5sum: 6879b1f4c9dc687d8f20d10a018225df
+SHA1: aab9c0b0a3c5baaa2894f0316615da3388da0bca
+SHA256: da38a05c66234ef41d865593311fa2303b005959c9ae6e64859d670f14fbf7d7
+Section: Tweaks
+Description: 从控制中心降低减少白点值降低屏幕亮度
+Author: opa334 <xuanhua880@gmail.com>
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Name: 白点模块
+
 Package: zp.cocoatop64
 Version: 3.1.2
 Architecture: iphoneos-arm64

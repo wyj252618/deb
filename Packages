@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: one.Neo
+Version: 7.1.0
+Architecture: iphoneos-arm64
+Maintainer: SingleKeycap
+Depends: bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
+Filename: ./debs/Neo.deb
+Size: 84020
+MD5sum: 3a8bdb157d1b2fc84829b3b8c38c379d
+SHA1: e3f369d629c7a435017dab41b138effd7c4d938f
+SHA256: 186e6ba7ebbcc3ee391fca3063fe0619dabb56e2427b689b41b34231ebd68049
+Section: System
+Description: Neo是一个用bash3.2+编写的命令行系统信息工具。终端输入Neo
+Author: halo_michael
+Name: Neo
+
 Package: com.daynightswitch
 Version: 1.0.3
 Architecture: iphoneos-arm64

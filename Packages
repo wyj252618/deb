@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.betteruiswitch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/全局开关.deb
+Size: 48996
+MD5sum: d8fe5ba38cb750912e9b967d03c371e3
+SHA1: 65033ee3c7d1b8c54c278302fed7112f4b203823
+SHA256: d6d56500d3a5661d7f389d3cfa18e88ae7e476c4ea82715c39d74732af0dcf5d
+Section: Tweaks
+Description: 全局设置开关，涩涩版
+Author: TiaoTiao
+Name: 日月开关
+
 Package: one.Neo
 Version: 7.1.0
 Architecture: iphoneos-arm64
@@ -27,22 +43,6 @@ Section: System
 Description: Neo是一个用bash3.2+编写的命令行系统信息工具。终端输入Neo
 Author: halo_michael
 Name: Neo
-
-Package: com.daynightswitch
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: TiaoTiao
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/日月开关.deb
-Size: 51164
-MD5sum: 0c55a87ca33829917d08efeb01d59f40
-SHA1: 024e87d66521e74bb43a1e27e1989d605d9ec3d8
-SHA256: 4b66fd2e2e033002f09dcb4e914dc70c8fa412bf755917adccae5a203aa995dd
-Section: Tweaks
-Description: 为您的开关添加一些风格
-Author: Finn Gaida & TiaoTiao
-Name: 日月开关
 
 Package: sileorespringfix
 Version: 0.0.1

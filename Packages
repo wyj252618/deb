@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: sileorespringfix
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Sileo注销补丁.deb
+Size: 4640
+MD5sum: 8d5a32affa266a72e54efb03ea70a0a4
+SHA1: e8881e820d0c1028964c5405984f6a309b43e7b4
+SHA256: 7be9d4bcce1f5aec4a23d8d7da048306d58a75efabf0cecc6f02f11fab8944fd
+Section: Tweaks
+Description: 将Sileo中的重启主屏幕更改为不需要完全重启主屏幕，以避免Dopamine中的一个黑屏错误。
+Author: Nightwind
+Name: Sileo注销补丁
+
 Package: com.smallboard
 Version: 1.1
 Architecture: iphoneos-arm64

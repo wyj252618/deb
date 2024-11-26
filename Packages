@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.daynightswitch
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/日月开关.deb
+Size: 51164
+MD5sum: 0c55a87ca33829917d08efeb01d59f40
+SHA1: 024e87d66521e74bb43a1e27e1989d605d9ec3d8
+SHA256: 4b66fd2e2e033002f09dcb4e914dc70c8fa412bf755917adccae5a203aa995dd
+Section: Tweaks
+Description: 为您的开关添加一些风格
+Author: Finn Gaida & TiaoTiao
+Name: 日月开关
+
 Package: sileorespringfix
 Version: 0.0.1
 Architecture: iphoneos-arm64

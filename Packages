@@ -13,26 +13,6 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
-Package: DayNigthSwitch
-Version: 1.0-0
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Misaka
-Depends: mobilesubstrate
-Conflicts: DayNigthSwitch
-Replaces: DayNigthSwitch
-Provides: DayNigthSwitch
-Filename: ./debs/日月开关.deb
-Size: 218752
-MD5sum: 906f4e41e74e2cebd8401727815f5807
-SHA1: cb4e8a2af2722aefcd2349701779d58c839bc358
-SHA256: 07ad1a012cb07d7feebdfa256cd50e9f1d76a3f4856246c9132e87f445968a24
-Section: Tweaks
-Priority: optional
-Description: DayNigthSwitch
-Author: Misaka
-Name: 日月开关
-
 Package: sileorespringfix
 Version: 0.0.1
 Architecture: iphoneos-arm64

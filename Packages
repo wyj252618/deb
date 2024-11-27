@@ -13,6 +13,52 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: net.betteruiswitch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: tiaotiao
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/淫荡开关.deb
+Size: 58372
+MD5sum: cf5a116bb4e17695f9cb3afa5a8f60b8
+SHA1: 6be991cc98e85e1e6db6340bb2859c480171d436
+SHA256: 94d889aadc9414f6b8851995493e33890e10da58bb6276fc9d74d6edbfdbd156
+Description: 日月开关，涩涩版
+Author: TiaoTiao
+Name: 淫荡开关
+
+Package: sudo
+Version: 1.9.15p5
+Architecture: iphoneos-arm64
+Essential: yes
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 5944
+Depends: libiosexec1 (>= 1.3.1), libintl8, libpam2
+Filename: ./debs/sudo.deb
+Size: 1158336
+MD5sum: 42455735664e198261608e004f540354
+SHA1: de346dbaeb4529cb4ec093c39e45870d6969e657
+SHA256: ea7d42f8aaa0124bf5bdd0f92e24878be72be86c673cc96ed1443c3677fbb0a2
+Section: Administration
+Priority: required
+Description: temporarily assume root priviledges
+
+Package: ws.hbang.newterm3
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 玩游戏的李子- <xuanhua880@gmail.com>
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Filename: ./debs/NewTerm3中文版.deb
+Size: 18632252
+MD5sum: 812d38d1c62ab062039ce7b0141c867a
+SHA1: 520d6d7a0c670e8da8191488de597e012795e4cd
+SHA256: 6e9b6ad2fee55ef756e3cfa5c5165153db6a76ae764180684b754ce1156333b7
+Section: Tweaks
+Description: newterm3中文版(带theos包，无sdk)
+Author: 玩游戏的李子- <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm3中文版
+
 Package: one.Neo
 Version: 7.1.0
 Architecture: iphoneos-arm64

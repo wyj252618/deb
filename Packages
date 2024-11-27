@@ -191,22 +191,6 @@ Description: 去除键盘的延迟(主用作于第三方，若没有延迟，则
 Author: 来了老弟
 Name: 去除键盘延迟
 
-Package: ws.hbang.newterm3
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: 玩游戏的李子- <xuanhua880@gmail.com>
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Filename: ./debs/NewTerm.deb
-Size: 18633372
-MD5sum: 9f962ec0429110d34859d55222804463
-SHA1: 819bb411b46c3ea6c673c34d16ad6c2a3fafd876
-SHA256: 339100d60b25a0c74e0e646b179c6df7c0e5c40ebaa48d0e23357062acbb727f
-Section: Tweaks
-Description: newterm3中文版(带theos包，无sdk)
-Author: 玩游戏的李子- <xuanhua880@gmail.com>
-Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
-Name: NewTerm3中文版
-
 Package: com.safariii
 Version: 0.0.1
 Architecture: iphoneos-arm64

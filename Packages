@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.notificationsgroupcount
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/通知分组计数.deb
+Size: 70232
+MD5sum: 6011ce0e2d304b3e5a8c5bbb33bf9255
+SHA1: 3e4695b3daeae834cd6765e664683f065c3228dc
+SHA256: ccaf6b955e0276fe373620558001053c93d3e1da6ddca384415311243cd3e951
+Section: Tweaks
+Description: 在Apple通知分组中统计这些通知！
+Author: 0xkuj
+Name: 通知分组计数
+
 Package: net.betteruiswitch
 Version: 1.1
 Architecture: iphoneos-arm64

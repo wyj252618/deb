@@ -437,23 +437,6 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
-Package: com.0xkuj.notificationsgroupcount
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 416
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Notificationsgroupcount_1.0.3_iphoneos-arm64.deb
-Size: 67940
-MD5sum: 59540e17799e683ec0022605e55eb69c
-SHA1: 825ca29378d5224ca4fc4159118ec64b2c3c92f1
-SHA256: a75e85b6c625f15b443fa05d87e95989267ddf7f771180a4a1bea7fac741523d
-Section: Tweaks
-Description: 通知中心消息计数
-Author: 0xkuj
-Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
-Name: 通知组计数
-
 Package: com.mtac.bridge
 Version: 1.2.1
 Architecture: iphoneos-arm64

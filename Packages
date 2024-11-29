@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.0xkuj.safarix
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Safarix_9.9.9_iphoneos-arm64.deb
+Size: 277872
+MD5sum: 484f0b0e818fb02742c7cd2861d10a80
+SHA1: d33904acd0e1dfeaa8ef6b6282bbe96e05f96dd7
+SHA256: f63f492a2f9e53b19228a532610ef87bf8983a87bbfc615258d3cd7b9b9f3c8e
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Name: SafariX
+
 Package: com.filza
 Version: 4.0.2
 Architecture: iphoneos-arm64
@@ -435,22 +451,6 @@ Description: 花哨的电池弹出窗口
 Author: Mysteryexe
 Icon: https://mysteryexe.xyz/repo/sanjehIcon.png
 Name: Sanjeh
-
-Package: com.0xkuj.safarix
-Version: 1.9.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 792
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Safarix_1.9.0_iphoneos-arm64.deb
-Size: 302444
-MD5sum: 905df989148a2336cade4caae4fa70af
-SHA1: 7b22ae2991333aadda1802b17741b70328834944
-SHA256: d46328ac0c36cf874d19ebb3f6f04d2123cf96c945098b6658398081352237fc
-Section: Tweaks
-Description: Safari Essential Features
-Author: 0xkuj
-Name: SafariX
 
 Package: ios-rootless
 Version: 0.0.1

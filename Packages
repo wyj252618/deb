@@ -13,6 +13,38 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.filza
+Version: 4.0.2
+Architecture: iphoneos-arm64
+Maintainer: Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/Filza_4.0.2_iphoneos-arm64.deb
+Size: 6977100
+MD5sum: 244e0ee74c7d5362d0d53d1fd42af23f
+SHA1: ee2079b2606bb60fb0fee0e07ee32388c9e99a92
+SHA256: f85a9c8f3dec8f8b7d34c0c81592ca19893e3bce4f6348bed39a4609fa635d75
+Section: 系统增强
+Description: 强大的文件管理器
+Author: TIGI Software
+Name: Filza文件管理器
+
+Package: net.3dnetworkfixer
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/修复联网.deb
+Size: 116736
+MD5sum: 2958ca1713407dccdba5dfef5d6f126b
+SHA1: d2e59add12df47d5ba0e327aec3440a1dcd1fa1e
+SHA256: 951f08cc8c17598b7c997b0340a8727153084cf9ae27a3f3d6a6f908d106122c
+Description: 安装之后注销，长按桌面图标唤出应用菜单，快捷修复该应用的联网权限！
+Author: Netskao
+Name: 修复联网
+
 Package: com.notificationsgroupcount
 Version: 1.0.6
 Architecture: iphoneos-arm64

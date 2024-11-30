@@ -13,6 +13,23 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/扩展微信.deb
+Size: 34040
+MD5sum: 328beaa31368887b56a7e348dbfa94cc
+SHA1: 50143cbf7d0997aa6b4dadb46422a3d6cdae3793
+SHA256: 6320f6d3b9253d6b85d19f1efe9a2c650a573081b4734816cc20419cccdf8d4d
+Section: 微信插件
+Priority: optional
+Description: 扩展微信URLScheme接口，方便从外部调用
+Author: Mao
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
+
 Package: com.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64

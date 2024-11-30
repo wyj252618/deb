@@ -13,6 +13,54 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/微信通知图像.deb
+Size: 522708
+MD5sum: 6c15e29ff02906d67893b9354bbbe2a1
+SHA1: 6668d116116ae1c640dae77665affed17aa2c460
+SHA256: 09a2ee66028322107e5b4e8d526c59b64793917295205f438cd7b4dc40d5fc30
+Section: Netskao-Tweaks
+Description: 使用iOS15+API显示微信应用程序的通知头像
+Author: Netskao
+Name: 微信通知图像
+
+Package: com.xx.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/SafariXHook.1.0.0.deb
+Size: 10572
+MD5sum: da9d54aa0be9dda5d69fdd249eecf55b
+SHA1: 1430ae31c1d370131624ac5b210b3a68d4acbac1
+SHA256: e9034e2d969d1c6c12edbaf240c5d488dfcd8e55b9e93a01df53e57adc83a675
+Section: Tweaks
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
+
+Package: net.storeswitcher2
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Netsko
+Installed-Size: 460
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless
+Filename: ./debs/App Store账号切换.deb
+Size: 102384
+MD5sum: c6c50346170fb038934863b4c4196db8
+SHA1: 59570e8e13d52eff93c845a02f69060b6ddc904c
+SHA256: 946f90dd3c053814a6dcc918753f4fc99589a387f643ae2e2a7c88dd100a918d
+Description: App Store帐户页面中快速切换帐号，长按图标切换账号
+Author: Netsko
+Name: App Store账号切换
+
 Package: com.0xkuj.safarix
 Version: 9.9.9
 Architecture: iphoneos-arm64

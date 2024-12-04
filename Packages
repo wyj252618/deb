@@ -1193,7 +1193,7 @@ Architecture: iphoneos-arm64
 Maintainer: yan
 Installed-Size: 576
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
-Filename: ./debs/Fiona_1.0.7_iphoneos-arm64.deb
+Filename: ./debs/Fiona_1.0.7_iphoneos-arm64-1.deb
 Size: 122272
 MD5sum: 0f71e9a33e4512a2423346effa58f971
 SHA1: ff2eb7c689ac7ecc41fc768d34a61dc819ba9574

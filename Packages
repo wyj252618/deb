@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.spectrum
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 580
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/Spectrum_1.1_iphoneos-arm64.deb
+Size: 79816
+MD5sum: 165767fdeca83547ddf360a5b3a9bbd2
+SHA1: 687a30202a6e677f539ae5b693c9fbbdcad8480f
+SHA256: d0c783fba5ab9e4d92b63615182c31d11328e9a942779bbc8e8063b591bd36fd
+Section: Tweaks
+Description: 自定义系统颜色！
+Author: Skitty & EvenDev
+Name: Spectrum
+
 Package: com.CCLess
 Version: 2.0.6
 Architecture: iphoneos-arm64
@@ -633,25 +649,6 @@ Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
 Name: DebHoarder
-
-Package: xyz.skitty.spectrum
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Skitty
-Installed-Size: 580
-Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
-Filename: ./debs/Spectrum_1.1_iphoneos-arm64.deb
-Size: 61676
-MD5sum: 279d9b92f017400087322c06189041e0
-SHA1: 99eaf228cb76ad292ba1a8131577b2b278f4a09a
-SHA256: d2eaef09ecc25b1cf9c1b758df37f2787f2074179a120f29d147f67b16a41d4b
-Section: Tweaks
-Description: 自定义系统颜色！
-Author: Skitty & EvenDev
-Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
-Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
-Name: Spectrum
-Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
 
 Package: codes.aurora.kayoko
 Version: 2.7

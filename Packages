@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 718
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/弹簧动画_1.1.1_iphoneos-arm64.deb
+Size: 39348
+MD5sum: 8e0b753bb666a0969fb115a0ff5bf26e
+SHA1: 94f03f2e2cbf94bf690c3006141e0fdd6f13cd4c
+SHA256: 1222e0a1759436ff323f0967180020d5cce1364edd7fd27cf7e80fc297458619
+Description: iOS 11-16上的漂亮动画效果！
+Author: SuSu
+Icon: https://susubaby.top/images/springanimations.png
+Name: 弹簧动画
+
 Package: com.0xkuj.safarix
 Version: 9.9.9
 Architecture: iphoneos-arm64

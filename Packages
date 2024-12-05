@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.CCLess
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration, com.hk.rootless.cc
+Filename: ./debs/CCLess控制中心多模块.deb
+Size: 515164
+MD5sum: 1700a03683cf1508a511504875e95d0c
+SHA1: 45b0b2dfcec199003d2f112e392b1f8780e8058c
+SHA256: 0378ecb3280017512e564fab3efe6f5e59b47e971921682747dd4abe8a637347
+Section: Tweaks
+Description: 控制中心模块集合！
+Author: 妖刀
+Name: CCLess控制中心多模块
+
 Package: com.springanimations
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -985,20 +1001,6 @@ SHA1: a27c919b0c20531d37cc13646c7d885dc79c6259
 SHA256: 53b0a8ec783a9759b968ef979f7f48ad7d8a3e1d51d0836bf6ea119f8c82d048
 Description: 系统相机开启全屏拍照，禁用拍照提示音
 Name: 全屏相机
-
-Package: net.rootless.cc
-Version: 2.0.5.5
-Architecture: iphoneos-arm64
-Maintainer: To
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
-Filename: ./debs/CCLess控制中心多模块.deb
-Size: 501316
-MD5sum: de8547fa57a2ee2f949db8371c079d1f
-SHA1: 93a7a595d249190f475f31d91755efbbe7f67ba8
-SHA256: c6ef524b7df0b26fce4c07268b02ffce0f3258b71f279f1dd578e5541c127603
-Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！更新増加配合snapper2控制中心快速截图！无法安装请卸载相同类型插件！
-Name: CCLess控制中心多模块
 
 Package: com.dao.ccborder
 Version: 1.1.8

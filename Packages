@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.lecard
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/App Lecard_0.1.deb
+Size: 409104
+MD5sum: 3574dbf0c87277817fa75dc49bccd15f
+SHA1: 6ba167f58ee2187b40eeb79bebf1333d939ef2f7
+SHA256: 008d9ca8b9755b973fc7f1ad49d0aebfa0651a68aedfdaf4f162c967853c6798
+Section: Tweaks
+Description: 此分屏已死,不再维护,此版本为无验证版本!
+Author: Crassna
+Name: App Lecard分屏
+
 Package: com.replyactions
 Version: 1.0.3
 Architecture: iphoneos-arm64

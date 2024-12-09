@@ -13,28 +13,6 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
-Package: com.opa334.choicy
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1114
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/Choicy_1.5_iphoneos-arm64.deb
-Size: 160848
-MD5sum: 38825f5cd1db9674df511f0362e67346
-SHA1: 60b84a72aef7ed50cbe271f5d63f662c9627a6fb
-SHA256: 642a604d753a3110cca5c50683ef376c2423863a0bac0e345d051a5b9360d25f
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-Description: Advanced Tweak Configuration!
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-Dev: opa334
-Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
-Name: Choicy
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.lecard
 Version: 0.1
 Architecture: iphoneos-arm64

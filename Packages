@@ -13,6 +13,23 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.opa334.choicy
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/Choicy_1.5_iphoneos-arm64.deb
+Size: 106312
+MD5sum: 86c1a0bb996d2551881afba10cc8b2d9
+SHA1: 23409053308ecea0b86dd28f3ae29242cc128608
+SHA256: 8a33f41c20eb25e7369ff8fb68845eda6ac5bf9efa3ef49b69e3d7cf86f741f8
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+
 Package: com.lecard
 Version: 0.1
 Architecture: iphoneos-arm64

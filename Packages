@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.replyactions
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 840
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/ReplyActions_2.0.0_iphoneos-arm64.deb
+Size: 159976
+MD5sum: 9872de9f37259611c780650edef0dce8
+SHA1: e0cbe8525b40c5c7922eb289a53146c85820660e
+SHA256: fd08f959544716baf1182ac20c932133a7f53ea0f518c32af425a10bd845cf4f
+Section: Tweaks
+Description: 以简单的方式发送消息
+Author: sergy
+Name: ReplyActions
+
 Package: com.opa334.choicy
 Version: 1.5
 Architecture: iphoneos-arm64

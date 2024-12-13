@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.ermete
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/Ermete_1.0.5_iphoneos-arm64.deb
+Size: 19688
+MD5sum: 432754bfcd996162fc108cf5d61dbdf6
+SHA1: 99f5945b62336a117480fec7f017bf6ffa412b91
+SHA256: f51a4559c49133e9c95e85d16f41e646d9800d963712e60509c2ed28c71acf7f
+Section: Tweaks
+Description: 可调速效果打开/关闭应用程序/切换器！
+Author: CydiaGeek
+Name: Ermete
+
 Package: com.replyactions
 Version: 2.0.0
 Architecture: iphoneos-arm64

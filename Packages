@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.bubbleapps
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 824
+Depends: com.opa334.altlist
+Filename: ./debs/Bubbleapps_3.1.2_iphoneos-arm64.deb
+Size: 259720
+MD5sum: ac20ab4c9bb13156f8e931e8d7188798
+SHA1: 0e2f12ea53aa7c306b01a5e52801e51c40d62ec4
+SHA256: e74a33634cf48fc9aa58cf48a13ff51bdd5280ef76f955b028d16ef43195be58
+Section: Tweaks
+Description: Floating app buttons anywhere you want
+Author: 0xkuj
+Name: Bubble Apps
+
 Package: com.ermete
 Version: 1.0.5
 Architecture: iphoneos-arm64

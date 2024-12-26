@@ -13,6 +13,23 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.ccadsbegone
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 6096
+Depends: com.opa334.ccsupport
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/CCAdsbegone_1.5_iphoneos-arm64.deb
+Size: 972372
+MD5sum: 9674223689d915600208c37918d51d22
+SHA1: 3951f95df04b8d65612d7ffa82be81affac809b3
+SHA256: a57c4e63373bbb92a261721b5a8064a5cb003e1f4555a60c599e531339409571
+Section: Tweaks
+Description: CC切换以按需阻止广告！
+Author: 0xkuj
+Name: CCAdsBeGone
+
 Package: com.bubbleapps
 Version: 3.1.2
 Architecture: iphoneos-arm64

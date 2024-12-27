@@ -13,6 +13,25 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/TweakSettings_1.0.8_iphoneos-arm64.deb
+Size: 385756
+MD5sum: 5733f84970ee4ccdd6f3f29f6f1c0e0e
+SHA1: 731c0d8e966227b5d30bb78e977e93dd532098a4
+SHA256: 9d453bcb7ef45a5e3136b768c81e326be44c8bd416be3114e81cbc5c60998bcc
+Section: Applications
+Priority: optional
+Description: 用于调整的专用设置应用程序
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Dev: CreatureSurvive
+Name: TweakSettings
+
 Package: com.ccadsbegone
 Version: 1.5
 Architecture: iphoneos-arm64

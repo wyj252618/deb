@@ -20,10 +20,10 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1064
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/TweakSettings_1.0.8_iphoneos-arm64.deb
-Size: 385756
-MD5sum: 5733f84970ee4ccdd6f3f29f6f1c0e0e
-SHA1: 731c0d8e966227b5d30bb78e977e93dd532098a4
-SHA256: 9d453bcb7ef45a5e3136b768c81e326be44c8bd416be3114e81cbc5c60998bcc
+Size: 386524
+MD5sum: 6b72de641d45761e1614599d20a7d1df
+SHA1: 2efb0f5caada7314e29b5de70c3ab163db2c9365
+SHA256: cccddc8384da2b43019ead3adacbc18ff7a99805e62e18456cfb77fe38d4b22f
 Section: Applications
 Priority: optional
 Description: 用于调整的专用设置应用程序

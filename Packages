@@ -13,6 +13,23 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: jp.dcsyhi.kbappdock
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Installed-Size: 1364
+Depends: mobilesubstrate
+Filename: ./debs/KBAPP_1.5_iphoneos-arm64.deb
+Size: 91764
+MD5sum: 9702e92f354c49db1652e72c9dd8b71f
+SHA1: 0db467c6898f3dffc3dd6bbdbccabcb6c111e38a
+SHA256: 017ac0ede2307df6d0aa2cdefe165e983a30a7b907e8f551c96d4ac9a3bc14a8
+Section: Tweaks
+Description: 您可以在键盘底座上排列应用程序
+Author: Dcsyhi
+Icon: https://dcsyhi1998.github.io/icons/kbappdock/icon@2x.png
+Name: KBApp
+
 Package: com.tweaksettings
 Version: 1.0.8
 Architecture: iphoneos-arm64

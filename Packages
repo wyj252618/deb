@@ -13,6 +13,21 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: movenotification16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: JunesiPhone
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/移动通知.deb
+Size: 17264
+MD5sum: c30e8ac6d0317e09e4636cea88912fcf
+SHA1: b21c2ad30b40f7e10e3bb7559a35b35bf56a3071
+SHA256: 192791238737f058e5a7ea134e3326ab379a982f8d7454d81f7ef3deab549f94
+Section: Tweaks
+Description: 在iOS16上移动通知
+Author: JunesiPhone
+Name: 移动通知
+
 Package: jp.dcsyhi.kbappdock
 Version: 1.5
 Architecture: iphoneos-arm64

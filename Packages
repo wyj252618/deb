@@ -209,22 +209,6 @@ Author: SuSu
 Icon: https://susubaby.top/images/springanimations.png
 Name: 弹簧动画
 
-Package: com.0xkuj.safarix
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 792
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/Safarix_9.9.9-arm64.deb
-Size: 292724
-MD5sum: 761e96382ed1bdc7332cda394e473820
-SHA1: 1858e898a307f4665b0ca583162a5db0e838dcdc
-SHA256: e186904749c45420a35cb5b225660151c07191f8be20ae5c94b5cd331c52788b
-Section: Tweaks
-Description: Safari增强（原1.9.2版）
-Author: 0xkuj
-Name: SafariX
-
 Package: com.wxurlexpand
 Version: 0.2-0
 Architecture: iphoneos-arm64

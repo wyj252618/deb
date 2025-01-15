@@ -13,6 +13,39 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.0xkuj.safarix
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/Safarix_9.9.9_iphoneos-arm64.deb
+Size: 288924
+MD5sum: 9d620d632e161612eb909cab2d825eef
+SHA1: d713d3667c525cd561581fc7d1e307075400d3ed
+SHA256: ff9e310b545ea45dedbd7e5928f6e7d5cc7366ecdc37eae6b5c3180d5689aeb3
+Section: Tweaks
+Description: Safari增强（原1.9.3版）
+Author: 0xkuj
+Name: SafariX
+
+Package: com.yan.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1328
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/Stella_1.1.5_汉化.deb
+Size: 400916
+MD5sum: 2211306e9dd5c51bba3ecffc837c6658
+SHA1: 7c276c8305b9e87cff64b2859d6d82b580396b4b
+SHA256: 961a653630ce9a7b3c3517662b638024705e1eaad36d4e8a3428218ef270bb1c
+Section: Tweaks
+Description: Let it snow on your device!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+
 Package: movenotification16
 Version: 1.0
 Architecture: iphoneos-arm64
